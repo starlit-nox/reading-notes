@@ -9,7 +9,7 @@
 
 **Birthday:** July 15th
 
-**Email:** <https://github.com/starlit-nox>
+**Github:** <https://github.com/starlit-nox>
 
 ## Meet Me
 
