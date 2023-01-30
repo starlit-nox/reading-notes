@@ -35,9 +35,21 @@ Howdy! My name is Kaydee Kelly. When my name is written, I write my name as KD. 
 Keep believing in myself! That is the best way to have a growth mindset!!
 ```
 
-### Table of Contents
+### Pop Quiz
 
-## Notes 
+```
+Word Bank
+```
+```
+bold | italic | smallests | largest
+```
+
+1. You will use ** ** when you want your text to be ___
+2. You use __ __ when you want yout text to be ___
+3. The header 6 is the ___ header.
+4. The header 1 is the ___ header.
+
+
 
 
 
