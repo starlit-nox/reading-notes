@@ -1,40 +1,28 @@
-
-# **Introduction to me, Kaydee Kelly**
-
-**Name:** Kaydee Kelly
-
-**Age:** 24
-
-**Birthday:** July 15th
-
-**Email:** <https://github.com/starlit-nox>
-
-## Meet Me
-
-Howdy! My name is Kaydee Kelly. When my name is written, I write my name as KD. My pronouns are she/her and he/him depending on the day. I am from Memphis, TN which is a CST timezone. I have some beginner knowledge in HTML & CSS. I'm a creative soul at heart. Down below you can find my notes for Markdown as well as my thoughts on growth mindsets.
-
-### **Markdown Notes**
-
-# # = Heading 1 (Largest Title)
-## ##  = Heading 2
-### ### = Heading 3
-
-### **My Definition**
-
-**Growth Mindset** _to me is the thoughts and mental opnness it takes to be willing to intake new information and grow not only as a student, but as a person and with your education. _
-
-## **Growth Mindset Mission**
-
-## **Ways I'll Keep my Growth Mindset Active**
-- Repeat my why
-- Think of the future
-- Repeat affirmations
-- Celebration accomplishments
+## Things I want to know more about
 
 ```
-Keep believing in myself! That is the best way to have a growth mindset!!
+This page is for Kaydee's note and questions.
 ```
 
+## Summary of What I've Learned
 
+```
+This is a summary of what I've learned during the lesson on Markdown
+```
 
+## Information on Headers
+- A header is similiar to a title
+- The largest header is H1
+- The smallest header is H5
+- To use headers in markdown you use #
+- To make the title smaller you add more # 
+
+## Additional Information
+- To make a list you use numbers or dashes
+- To make paragraphs, leave a space between lines
+- to make quote boxes use ``` ```
+- To make things bold/strong use ** **
+- To make things italized use __ __
+- To insert an image use ![ ](img.jpg)
+    Example: ! [ Blah Blah } ( img.jg )
 
