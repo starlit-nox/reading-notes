@@ -1,5 +1,4 @@
 # reading-notes
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -12,7 +11,13 @@
 <h2>
 <u> Ways I'll Keep my Growth Mindset Active </u>
 </h2>
-
+<p> Personalized for Kaydee
+<ul>
+  <li>Repeat my why</li>
+  <li>Think of the future</li>
+  <li>Repeat affirmations</li>
+</ul>
+</p>
 
 </body>
 </html>
