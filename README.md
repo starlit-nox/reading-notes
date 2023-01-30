@@ -1,12 +1,11 @@
 # reading-notes
-<html>
-<body>
 <h2>
-<u>
 <b> Introduce to me, Kaydee!
 </b>
 
+ <p>
 <img src="https://cdn.discordapp.com/attachments/442113342501552147/1069658050820059206/image.png" alt="Girl in a jacket" width="1500" height="300">
+ </p>
 
 <h2> <u> Kaydee's Growth Mindset Mission </u>
 </h2>
@@ -25,6 +24,3 @@
   <li>Repeat affirmations</li>
 </ul>
 </p>
-
-</body>
-</html>
