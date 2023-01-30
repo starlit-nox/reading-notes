@@ -1,14 +1,17 @@
 
 # **Introduction to me, Kaydee Kelly**
+
 **Name:** Kaydee Kelly
+
 **Age:** 24
+
 **Birthday:** July 15th
 
 ### **Markdown Notes**
 
-<p> # </p> = Heading 1 (Largest Title)
-</p> ## </p> = Heading 2
-</p> ### </p> = Heading 3
+# <p> # = Heading 1 (Largest Title) </p> 
+## </p> ##  = Heading 2 </p> 
+### </p> ### = Heading 3 </p> 
 
 ### **My Definition**
 
