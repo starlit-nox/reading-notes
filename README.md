@@ -1,7 +1,7 @@
 
 # **Introduction to me, Kaydee Kelly**
 
-![image](https://cdn.discordapp.com/attachments/800621088320389180/1069646524574859534/IMG_3775.jpg)
+![image](https://avatars.githubusercontent.com/u/123973520?v=4)
 
 **Name:** Kaydee Kelly
 
