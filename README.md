@@ -13,7 +13,7 @@
 
 Howdy! My name is Kaydee Kelly. When my name is written, I write my name as KD. My pronouns are she/her and he/him depending on the day. I am from Memphis, TN which is a CST timezone. I have some beginner knowledge in HTML & CSS. I'm a creative soul at heart. Down below you can find my notes for Markdown as well as my thoughts on growth mindsets.
 
-### **Markdown Notes**
+### **Quick Markdown Notes**
 
 # # = Heading 1 (Largest Title)
 ## ##  = Heading 2
@@ -34,6 +34,10 @@ Howdy! My name is Kaydee Kelly. When my name is written, I write my name as KD. 
 ```
 Keep believing in myself! That is the best way to have a growth mindset!!
 ```
+
+### Table of Contents
+
+## Notes 
 
 
 
