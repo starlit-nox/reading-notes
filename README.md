@@ -1,7 +1,6 @@
 # reading-notes
 <h2>
-<b> Introduce to me, Kaydee!
-</b>
+ <b> <u> Introduction to me, Kaydee! </u> </b>
 
  <p>
 <img src="https://cdn.discordapp.com/attachments/442113342501552147/1069658050820059206/image.png" alt="Girl in a jacket" width="1500" height="300">
