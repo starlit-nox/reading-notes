@@ -48,9 +48,9 @@ This is a summary of Module 2 which I thought was important information.
 
 ### Using Software Pre-installed
 
-'''
+```
 Just some tid bits
-'''
+```
 
 ## Programs to Use
 
@@ -58,13 +58,13 @@ Just some tid bits
 -Powershell
 -VS Code
 
-'''
+```
 Run Ubuntu & Powershell as an adminstrator
-'''
+```
 
-'''
+```
 When closing a terminal, type exit
-'''
+```
 
 ## Definitions
 
@@ -72,9 +72,9 @@ When closing a terminal, type exit
 
 **ls -a:** list the contents of a directory, including hidden files
 
-'''
+```
 Important Concepts
-'''
+```
 
 **Everything is a file under Linux:** even directories
 
