@@ -1,5 +1,5 @@
 # KD Reading Notes Repo
 
-## [Course 102](/201/Class11)
+## [Class 11](/Reading-Notes/Class11).
 
-## [Course 201](/201/Class12)
+## [Class 12](/Reading-Notes/Class12).
