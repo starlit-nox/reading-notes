@@ -1,5 +1,5 @@
 # KD Reading Notes Repo
 
-## [Course 102](/102/Class01/README.md)
+## [Course 102](/Reading-Notes/102)
 
-## [Course 201](/READING-NOTES/201)
+## [Course 201](/Reading-Notes/201)
