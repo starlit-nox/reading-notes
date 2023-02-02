@@ -20,6 +20,6 @@ This site is a table of contents for notes & informational summarises.
 
 # Table of Contents
 
-## [Course 102](/reading-notes/102/README.md)
+## [Course 102](reading-notes/102/README.md)
 
-## [Course 201](/reading-notes/201/README.md)
+## [Course 201](reading-notes/201/README.md)
