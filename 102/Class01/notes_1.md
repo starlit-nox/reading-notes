@@ -74,6 +74,48 @@ This is a summary of Module 2 which I thought was important information.
 Just some tid bits
 '''
 
+### **Quick Markdown Notes**
 
+# # = Heading 1 (Largest Title)
+## ##  = Heading 2
+### ### = Heading 3
+
+### **My Definition**
+
+**Growth Mindset** _to me is the thoughts and mental opnness it takes to be willing to intake new information and grow not only as a student, but as a person and with your education. _
+
+## **Growth Mindset Mission**
+
+## **Ways I'll Keep my Growth Mindset Active**
+- Repeat my why
+- Think of the future
+- Repeat affirmations
+- Celebration accomplishments
+
+```
+Keep believing in myself! That is the best way to have a growth mindset!!
+```
+
+### Pop Quiz
+
+```
+Word Bank
+```
+```
+bold | italic | smallests | largest
+```
+
+1. You will use ** ** when you want your text to be ___
+2. You use __ __ when you want yout text to be ___
+3. The header 6 is the ___ header.
+4. The header 1 is the ___ header.
+
+
+
+
+
+
+
+## 
 
 
