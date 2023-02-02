@@ -22,4 +22,4 @@ This site is a table of contents for notes & informational summarises.
 
 ## [Course 102](102)
 
-## [Course 201](/201)
+## [Course 201](201)
