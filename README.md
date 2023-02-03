@@ -22,6 +22,4 @@ This site is a table of contents for notes & informational summarises.
 
 ## [Course 102](102/classes_102.md)
 
-## [Class 01](102/Class01/notes_1.md)
-
-## [Course 201](201)
+## [Course 201](201/classes_201.md)
