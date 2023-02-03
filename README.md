@@ -22,6 +22,6 @@ This site is a table of contents for notes & informational summarises.
 
 ## [Course 102](102)
 
-## [Class 01](/102/Class01)
+## [Class 01](/102/Class01/README.md)
 
 ## [Course 201](201)
