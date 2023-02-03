@@ -1,5 +1,5 @@
-# Class 11
+## Module 1
 
 ```
-Notes Below
+This page is for Kaydee's note and questions.
 ```
