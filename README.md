@@ -20,7 +20,7 @@ This site is a table of contents for notes & informational summarises.
 
 # Table of Contents
 
-## [Course 102](102)
+## [Course 102](102/classes_102.md)
 
 ## [Class 01](102/Class01/notes_1.md)
 
