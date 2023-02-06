@@ -106,7 +106,7 @@ The < strong > < / strong > makes things bold.
 My cat is **very grumpy.**
 
 ```
-<p> My cat is < stong >very grumpy.</strong></p>
+<p> My cat is <stong>very grumpy.</strong></p>
 ```
 
 ## Images Insertion
@@ -182,8 +182,8 @@ My cat is **very grumpy.**
 
 ## Lists
 
-**Lists:** ```<li>
-```
+**Lists:** < li >
+
 
 ```
 <li> Lists stuff here </li>
