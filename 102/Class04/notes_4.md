@@ -9,11 +9,11 @@
 ### What is a wireframe?
 
 - a practice used by UX designers
-- allows desginers to define & plan an information hiechary
+- allows designers to define & plan an information hierarchy
 
-Its good for getting to knw how users interact with the interface via positoning of buttons & menus on diagrams
+It's good for getting to know how users interact with the interface via positioning of buttons & menus on diagrams
 
-- In short it lets you plan out the desiggn without distractions
+- In short it lets you plan out the design without distractions
 
 ### Wireframe Examples & Things to Consider
 
@@ -22,37 +22,37 @@ Some people like to draw their framewire, some applications are:
 -Invision
 -Balsamiq
 
-Keep in mind when deciding your framewire:
+Keep in mind when deciding your wireframe:
 
 -**Wireframes drawn with paper & pencil**, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product
 -**Paper-prototypes** can test with end users at every stage of ideation & design. Changes at these stages are much easier & therefore cheaper than changes deemed necessary after coding is under way.
--**Switching later to software** (after intially hand-drawing your wireframe) allows you to keep tracking of more detailed decisions. 
+-**Switching later to software** (after initially hand-drawing your wireframe) allows you to keep tracking of more detailed decisions. 
 
-Here are a number of ways designers structure the proces:
-1. Wirerame > Interactive Prototype > Visual > Design
+Here are a number of ways designers structure the process:
+1. Wireframe > Interactive Prototype > Visual > Design
 2. Sketch > Code
 3. Sketch > Wireframe > Hi-Def Wireframe >Visual > Code
 4. Sketch > Wireframe > Visual > Code
 
 ```
-If the task is very narow and the visual design is either set or considered unimportant, then going from a sketch to coding/development makes sense.
+If the task is very narrow and the visual design is either set or considered unimportant, then going from a sketch to coding/development makes sense.
 ```
 
 ### Possible Websites to Use
 
-- **Uxpin:** wide range of cuntionalities, but one of the best ones is how it facilitates building responive, clickable prototypes directly into browser
-- **InVision:** allows you to get feedback striaght from yourteam & users through clickable mock-ups of our site design. (FREE!)
-- **Wireframe.cc:** provides you with the technonnlogy to create wireframes really quickly within your brower.
+- **Uxpin:** wide range of functionalities, but one of the best ones is how it facilitates building responsive, clickable prototypes directly into browser
+- **InVision:** allows you to get feedback straight from your team & users through clickable mock-ups of our site design. (FREE!)
+- **Wireframe.cc:** provides you with the technology to create wireframes really quickly within your browser.
 
 ## When Wireframing focuses on:
 
 - **Usability conventions:** putting the navigation at the top next to the logo, having a search box on the top, etc.
-- **Simplicitity:** instructional wording for i.e calls-to-actions
-- **Trust-building elemnts:** What you need to build trust in yoru customers / where would the best place to put these elments be?
-- **Tooltips:** indicate any functionality that could be incldued in prototype transition
+- **Simplicity:** instructional wording for i.e calls-to-actions
+- **Trust-building elements:** What you need to build trust in your customers / where would the best place to put these elements be?
+- **Tooltips:** indicate any functionality that could be included in prototype transition
 
 
-## Good Wierframe: 3 Key Principles
+## Good Wireframe: 3 Key Principles
 1. Clarity
 2. Confidence
 3. Simplicity is key
@@ -62,25 +62,25 @@ If the task is very narow and the visual design is either set or considered unim
 
 ```
 What is HTML?
-Its a markup language that defines the strucutre of your content
+It's a markup language that defines the structure of your content
 ```
-## HTML Defintions
+## HTML Definitions
 
-1. **Opening Tag:** consists of the name of the elemnt, wrapped in opening and closing angle brackets. 
-2. **Closing tag:** same as the opening tag, except that it includes a forward slash before the elment name; states where the elemnt ends
-3. **Content:** content of the elemnt
-4. **Element:** opening tage, closing tag, and the content together comrpise the element
+1. **Opening Tag:** consists of the name of the element, wrapped in opening and closing angle brackets. 
+2. **Closing tag:** same as the opening tag, except that it includes a forward slash before the element name; states where the element ends
+3. **Content:** content of the element
+4. **Element:** opening tags, closing tag, and the content together comprise the element
 5. **Angle Brackets:** < >
-6. **Atributes:** extra information about the ement that desn't appear in actual content
+6. **Attributes:** extra information about the element that does not appear in actual content
     -examples: class, editor-note
-7. **Class:** atribute allows you to give the elemnt a non-unique indenfier that can be used to target it (and others with the same class value)
-8. **Nesting Elements:** putting elements inside of other elments
+7. **Class:** attribute allows you to give the element a non-unique identifier that can be used to target it (and others with the same class value)
+8. **Nesting Elements:** putting elements inside of other elements
 9. **Void Elements:** elements that have no content 
 
 **Attributes that set a value always have:**
-1. Space between it & the elemnt name (or previous atribute, if the elemnt already has one or more attributes)
-2. Attribute name followe dby an equal sign. 
-3. Atribute value wrapped by opening & closing quotation marks.
+1. Space between it & the element name (or previous attribute, if the element already has one or more attributes)
+2. Attribute name followed by an equal sign. 
+3. Attribute value wrapped by opening & closing quotation marks.
 
 
 
@@ -88,7 +88,7 @@ Its a markup language that defines the strucutre of your content
 
 When making a paragraph use <> with the abbreviation inside of it. When closing use </>.
 
-The abbrevation for paragraph is **p**
+The abbreviation for paragraph is **p**
 
 **FOR EXAMPLE PURPOSES, THERE ARE SPACES BETWEEN THE TAGS. DO NOT EVER ADD SPACES BETWEEN THE TAGS.**
 
@@ -120,15 +120,15 @@ My cat is **very grumpy.**
 
 ![img doctype](https://cdn.discordapp.com/attachments/442113342501552147/1072199447162917004/IMG_4084.png)
 
-## Defintions
+## Definitions
 
 
 ```
-<!Doctype html> | Its a required preamble. It makes sure the document behave correctly.
+<!Doctype html> | It's a required preamble. It makes sure the document behaves correctly.
 ```
 
 ```
-<html> </html> | this element wraps all the content on the entire page & is smetimes knwona s the root element (includes the lang attributes, setting primary language of document)
+<html> </html> | this element wraps all the content on the entire page & is sometimes known as the root element (includes the lang attributes, setting primary language of document)
 ```
 
 ```
@@ -136,11 +136,11 @@ My cat is **very grumpy.**
 ```
 
 ```
-<meta name="viewport" content="width=device-width"> | viewport element ensures the page renders at the width of viewport, preventing mobile browsers from rendering pages wier than the viewport and then shrinking them down
+<meta name="viewport" content="width=device-width"> | viewport element ensures the page renders at the width of viewport, preventing mobile browsers from rendering pages wider than the viewport and then shrinking them down
 ```
 
 ```
-<title> </title> | this sets the title of your page, which is the tittle that appears in the bowser tab the page is laoded in (also shows in bookmarks/favorites)
+<title> </title> | this sets the title of your page, which is the title that appears in the browser tab the page is loaded in (also shows in bookmarks/favorites)
 ```
 
 ```
@@ -167,10 +167,10 @@ My cat is **very grumpy.**
 -
 
 ```
-<h3> My subheadding</h3>
+<h3> My subheading</h3>
 ```
 
-<h3> My subheadding</h3>
+<h3> My subheading</h3>
 
 -
 
