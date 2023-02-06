@@ -2,9 +2,9 @@
 
 ##  How To Make Your First Wireframe
 
-'''
+```
 (How to Make Your First Wireframe)[https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/]
-'''
+```
 
 ### What is a wireframe?
 
@@ -34,9 +34,10 @@ Here are a number of ways designers structure the proces:
 3. Sketch > Wireframe > Hi-Def Wireframe >Visual > Code
 4. Sketch > Wireframe > Visual > Code
 
-'''
+```
 If the task is very narow and the visual design is either set or considered unimportant, then going from a sketch to coding/development makes sense.
-'''
+```
+
 ### Possible Websites to Use
 
 -**Uxpin:** wide range of cuntionalities, but one of the best ones is how it facilitates building responive, clickable prototypes directly into browser
