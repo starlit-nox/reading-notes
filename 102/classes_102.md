@@ -18,7 +18,9 @@ Class 03 Stuff
 
 ## [Class 03](Class03/notes_3.md)
 
-'''Structure web pages with HTML'''
+'''
+Structure web pages with HTML
+'''
 
-## [Class 04](Class03/notes_4.md)
+## [Class 04](Class04/notes_4.md)
 
