@@ -98,6 +98,7 @@ My cat is very grumpy
 ```
 < p > My cat is very grumpy < / p >
 ```
+![Img](https://cdn.discordapp.com/attachments/442113342501552147/1072199447393620060/IMG_4083.png)
 
 ## Strong / Bold
 
@@ -117,7 +118,7 @@ My cat is **very grumpy.**
 
 # Anatomy of HTML Document
 
-
+![img doctype](https://cdn.discordapp.com/attachments/442113342501552147/1072199447162917004/IMG_4084.png)
 
 ## Defintions
 
@@ -190,20 +191,21 @@ My cat is **very grumpy.**
 ```
 
 
-**Unordered Lists:**  ``` <ul> 
-```
+**Unordered Lists:**  < ul > 
+
 
 ```
 <ul> Lists stuff here </ul>
 ```
 
-**Ordered Lists:** ```<ol>
-```
+**Ordered Lists:** < ol> 
+
 
 ```
 <ol> Lists Stuff Here </ol>
 ```
 
+![img lists](https://cdn.discordapp.com/attachments/442113342501552147/1072199446949019688/IMG_4085.png)
 
 
 ## Links
