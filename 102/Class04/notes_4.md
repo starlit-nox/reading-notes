@@ -74,6 +74,8 @@ Its a markup language that defines the strucutre of your content
 6. **Atributes:** extra information about the ement that desn't appear in actual content
     -examples: class, editor-note
 7. **Class:** atribute allows you to give the elemnt a non-unique indenfier that can be used to target it (and others with the same class value)
+8. **Nesting Elements:** putting elements inside of other elments
+9. **Void Elements:** elements that have no content 
 
 **Attributes that set a value always have:**
 1. Space between it & the elemnt name (or previous atribute, if the elemnt already has one or more attributes)
@@ -95,5 +97,118 @@ My cat is very grumpy
 ```
 ```
 < p > My cat is very grumpy < / p >
+```
+
+## Strong / Bold
+
+The < strong > < / strong > makes things bold.
+
+My cat is **very grumpy.**
+
+```
+<p> My cat is < stong >very grumpy.</strong></p>
+```
+
+## Images Insertion
+
+```
+<img scr="images/firefox-icon.png" alt="My test image" />
+```
+
+# Anatomy of HTML Document
+
+
+
+## Defintions
+
+
+```
+<!Doctype html> | Its a required preamble. It makes sure the document behave correctly.
+```
+
+```
+<html> </html> | this element wraps all the content on the entire page & is smetimes knwona s the root element (includes the lang attributes, setting primary language of document)
+```
+
+```
+<head> </head> | header element, this element acts as a container for all the stuff you want to include on the HTML page
+```
+
+```
+<meta name="viewport" content="width=device-width"> | viewport element ensures the page renders at the width of viewport, preventing mobile browsers from rendering pages wier than the viewport and then shrinking them down
+```
+
+```
+<title> </title> | this sets the title of your page, which is the tittle that appears in the bowser tab the page is laoded in (also shows in bookmarks/favorites)
+```
+
+```
+<body> </body> | contains all the content that you want to show to web users when they visit your page (text, images, videos, games, playable audio tracks, etc.)
+```
+
+
+## Heading Levels
+
+```
+<h1> My main title </h1>
+```
+
+<h1> My main title </h1>
+
+-
+
+```
+<h2> My top level heading</h2>
+```
+
+<h2> My top level heading</h2>
+
+-
+
+```
+<h3> My subheadding</h3>
+```
+
+<h3> My subheadding</h3>
+
+-
+
+```
+<h4>  My sub-subheading</h4>
+```
+
+<h4> My sub-subheading </h4>
+
+
+## Lists
+
+**Lists:** ```<li>
+```
+
+```
+<li> Lists stuff here </li>
+```
+
+
+**Unordered Lists:**  ``` <ul> 
+```
+
+```
+<ul> Lists stuff here </ul>
+```
+
+**Ordered Lists:** ```<ol>
+```
+
+```
+<ol> Lists Stuff Here </ol>
+```
+
+
+
+## Links
+
+```
+<a href="text.com"><Text</a>
 ```
 
