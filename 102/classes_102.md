@@ -19,5 +19,10 @@ Coder's Computer
 
 ## [Class 04](Class04/notes_4.md)
 ```
-Structure web pages with HTML
+Structure web pages with HTML & JavaScript
+```
+
+## [Class 05](Class05/notes_5.md)
+```
+Learning CSS
 ```

@@ -214,3 +214,4 @@ My cat is **very grumpy.**
 <a href="text.com"><Text</a>
 ```
 
+# Semantics with Javascript
