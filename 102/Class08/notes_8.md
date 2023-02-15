@@ -50,3 +50,13 @@ The expression uses **+** as the operator to added 3 and 4 together to **produce
 **Binary operator:** requires 2 operands, one BEFORE and one AFTER the operator
 
 ![img-text-2](https://cdn.discordapp.com/attachments/442113342501552147/1075400866858815488/image.png)
+
+**Left-associative:** the operations are grouped from the left
+
+**Right-associative:** the operations are grouped from the right
+
+**Non-associative:** meaning operations cannot be chained, often because the output type is incompatible with the input types
+
+## Comprehensive Symbol Guide Below
+
+![text-table-1](https://cdn.discordapp.com/attachments/442113342501552147/1075402709034877031/image.png)
