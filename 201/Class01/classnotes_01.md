@@ -1,11 +1,11 @@
 # Setup Developer Toolbelt
 
 ### Getting Started
-![Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
 
 
 ### How the Web Works
-![Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works>
 
 **How the web works:** provides a simplified view of what happens when you view a webpage in a web browser on your device. 
 
@@ -63,7 +63,7 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 
 
 ### Website Design & Progress
-![website-design](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like>
 
 #### Planning
  1. What is your
@@ -80,22 +80,67 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 - Text, Theme Color, Images, Font
 
 ### JavaScript Basics
+<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
 
 ## Introduction to HTML
 
 ### Getting Started
+<https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
 
 ### HTML Document Structure
+<https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>
 
 ### Metadata in HTL
+<https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML>
 
 ## Miscellaneous
 
 ### How to Start Website Design
+<https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding>
 
 ### Semantics
+<https://developer.mozilla.org/en-US/docs/Glossary/Semantics>
 
 ### What's JavaScript?
+<https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript>
+
+**JavaScript:** cripting or programming language that allows you to implement complex features on web pages
+
+![delopver.mozzilla.img](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/execution.png)
+
+- common use is to dynamically modify HTML and CSS to update user interface
+
+- this is done via the ocument Object Model API (above image)
+
+- **NOTE** errors may occur if JavaScript is loaded and ran before the HTML and CSS
+
+
+#### Add Internal JavaScript
+
+1. Make a script.JS file
+
+2. Go to your text editor and add the following in the head </head> in html
+![img-js.1](https://cdn.discordapp.com/attachments/442113342501552147/1077240242098159636/image.png)
+
+3. Now we'll add some JavaScript inside our script element to make the page do something more interesting — add the following code just below the "// JavaScript goes here" line:
+![img.js.2](https://cdn.discordapp.com/attachments/442113342501552147/1077240809444872262/image.png)
+
+5. Save your file and refresh the browser — now you should see that when you click the button, a new paragraph is generated and placed below.
+
+
+#### Add External JavaScript
+
+1. Make a script.JS file
+
+2. Replace current script with the following below:
+![img.js.3](https://cdn.discordapp.com/attachments/442113342501552147/1077241272105967677/image.png)
+
+3. Inside script.js add the following script:
+![img.js.4](https://cdn.discordapp.com/attachments/442113342501552147/1077241554479095879/image.png)
+
+4. Save and refresh your browser, and you should see the same thing! It works just the same, but now we've got our JavaScript in an external file. This is generally a good thing in terms of organizing your code and making it reusable across multiple HTML files. Plus, the HTML is easier to read without huge chunks of script dumped in it.
+
+**To look at other methods of adding, check otu the link under What's JavaScript?**
 
 ## Defintions
 
@@ -116,6 +161,14 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 **Code Files:** HTML, CSS, and JavaScript
 
 **Assets:** Collective name for all other stuff that makes up a website.
+
+**HTML:** markup language that we use to structure and give meaning to our web content
+- Paragraphs, headings, data tables, embedded images, videos, etc.
+
+**CSS:** a language of style rules that we use to apply styling to our HTML content
+- Background colors, fonts, laying out content in multiple columns
+
+**JavaScript:** scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else
 - Images, music, videos, word couments, and PDFs
 
 ## Things I want to know more about
