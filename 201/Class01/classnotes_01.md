@@ -1,6 +1,6 @@
 # Setup Developer Toolbelt
 
-## [Code 102 - Intro to Software Development](201/Class01/classlab_01)
+## [Lab 01](201/Class01/classlab_01)
 
 ## Summary
 
