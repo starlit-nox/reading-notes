@@ -5,7 +5,7 @@
 ### Getting Started Summary
 
 ### Introduction to HTML Summary
-1. **Compose a short poem describing how HTTP sends data between computers.**
+**Compose a short poem describing how HTTP sends data between computers.**
 
 Haiku
 
@@ -16,7 +16,7 @@ Oh client, where is my copy?
 Finally, approved with a 200 OK.
 ```
 
-2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
+**Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
 - browser parses the files by which one that leads, which is HTML and it reads and recognizes any link elements referenced to external CSS stylesheets and script elements referenced to scripts
 
@@ -28,13 +28,13 @@ Finally, approved with a 200 OK.
 
 - it works similar to a painter building up a painting
 
-3. **How can you find images to add to a Website?**
+**How can you find images to add to a Website?**
 
 - Looking for royalty free / copyright free images on google
 
 - png tree, pixabay, etc.
 
-4. **How do you create a String vs a Number in JavaScript?**
+**How do you create a String vs a Number in JavaScript?**
 
 - a string can be defined by single, double, or backtick quotes
 ```
@@ -46,31 +46,31 @@ let name = "John";
 let a = 1;
 ```
 
-5. **What is a Variable and why are they important in JavaScript?**
+**What is a Variable and why are they important in JavaScript?**
 
 - used to hold and change data values
 
 - they are important for changing inputs, such as adding usernames, passwords, etc.
 
 ### How to Start to Design a Website Summary
-1. **What is an HTML attribute?**
+**What is an HTML attribute?**
 
 - an attribute is a special element that can embed, change color, size, or other descriptions of the element it's attached to
 
-2. **Describe the Anatomy of an HTML element.**
+**Describe the Anatomy of an HTML element.**
 
 - starting off the anatomy is the opening tag < >
 - in the middle is the content < content >
 - ending it is the closing tag < / >
 - when all together it is called an element < / content >
 
-3. **What is the Difference between article and section element tags?**
+**What is the Difference between article and section element tags?**
 
 - the role of the article tag is to wrap autonomous content on a page (information than can be moved from one page to another)
 
 - the role of the section tag is similar to the div tag, it wraps logical groups of content together
 
-4. **What Elements does a "typical" website include?**
+**What Elements does a "typical" website include?**
 
 - header
 
@@ -82,16 +82,16 @@ let a = 1;
 
 - footer
 
-5. **How does metadata influence Search Engine Optimization?**
+**How does metadata influence Search Engine Optimization?**
 
 - sets up keywords for search engines
 
-6. **How is the meta HTML tag used when specifying metadata?**
+**How is the meta HTML tag used when specifying metadata?**
 
 - metadata is the data which describes the HTML data in the head
 
 ### Semantics Summary
-1. **Why should you use an h1 element over a span element to display a top level heading?**
+**Why should you use an h1 element over a span element to display a top level heading?**
 
 - Span is an inline element and its similar to div
 
@@ -99,7 +99,7 @@ let a = 1;
 
 - Depending on how you use Span it may cause an error
 
-2. **What are the benefits of using semantic tags in our HTML?**
+**What are the benefits of using semantic tags in our HTML?**
 
 - Search engines consider its contents as important keywords
 
@@ -112,9 +112,12 @@ let a = 1;
 - Semantic naming mirrors proper custom element/component naming
 
 ### What is JavaScript
-1. **Describe 2 things that *require* JavaScript in the Browser?**
+**Describe 2 things that *require* JavaScript in the Browser?**
 
-2. **How can you add JavaScript to an HTML document?**
+1. In brower games
+2. Creating web and mobile apps
+
+**How can you add JavaScript to an HTML document?**
 
 **Internal JavaScript is added in the head, example below.**
 ```
