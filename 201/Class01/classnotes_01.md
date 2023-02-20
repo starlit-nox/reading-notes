@@ -130,8 +130,10 @@ let a = 1;
 
 And Inline JavaScript!
 
-**BELOW THIS POINT ARE NOTES**
 
+```
+BELOW THIS POINT ARE NOTES
+```
 
 ### Getting Started
 <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
