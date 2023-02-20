@@ -1,5 +1,101 @@
 # Setup Developer Toolbelt
 
+## Summary
+
+### Getting Started Summary
+
+### Introduction to HTML Summary
+1. **Compose a short poem descriibing how HTTP sends data between computers.**
+
+2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
+
+3. **How can you find images to add to a Website?**
+
+4. **How do you create a String vs a Number in JavaScript?**
+
+5. **What is a Variable and why are they important in JavaScript?**
+
+### How to Start to Design a Website Summary
+1. **What is an HTML attribute?**
+
+- an attribute is a special element that can embed, change color, size, or other descriptions of the element it's attached to
+
+2. **Describe the Anatomy of an HTML element.**
+
+- starting off the anatomy is the opening tag < >
+- in the middle is the content < content >
+- ending it is the cloing tag < / >
+- when all together it is called an element < / content >
+
+3. **What is the Difference between article and section element tags?**
+
+- the role of the article tag is to wrap autonomous content on a page (information than can be moved from one page to another)
+
+- the role of the section tag is similiar to the div tag, it wraps logical groups of content together
+
+4. **What Elements does a "typical" website include?**
+
+- header
+
+- navigation bar
+
+- main content
+
+- sidebar
+
+- footer
+
+5. **How does metadata infleunce Search Engine Optimization?**
+
+- sets up keywords for search engines
+
+6. **How is the meta HTML tag used when specifying metadata?**
+
+- metadata is the data which describes the HTML data in the head
+
+### Semantics Summary
+1. **Why should you use an h1 element over a span element to display a top level heading?**
+
+- Span is an inline element and its similiar to div
+
+- H1 will directly show the results of the markdown as the header
+
+- Depending on how you use Span it may cause an error
+
+2. **What are the benefits of using semantic tags in our HTML?**
+
+- Search engines consider its contents as important keywords
+
+- Screen readers use it as a signpost to help viually impaired navigate the page
+
+- Finding blocks of meaningful code signficiantlly easier than searching through endless divs or classes
+
+- Suggests to the develper the type of data that will be populated
+
+- Semantic naming mirrors proper custom element/component naming
+
+### What is JavaScript
+1. **Describe 2 things that *require* JavaScript in the Browser?**
+
+2. **How can you add JavaScript to an HTML document?**
+
+**Internal JavaScript is added in the head, example below.**
+```
+<script>
+  // JavaScript goes here
+</script>
+```
+
+**External JavaScript is added in the head, example below.**
+```
+<script src="script.js" defer></script>
+```
+
+And Inline JavaScript!
+
+**BELOW THIS POINT ARE NOTES**
+
+
 ### Getting Started
 <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
 
