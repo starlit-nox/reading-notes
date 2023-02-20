@@ -120,9 +120,11 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 1. Make a script.JS file
 
 2. Go to your text editor and add the following in the head </head> in html
+
 ![img-js.1](https://cdn.discordapp.com/attachments/442113342501552147/1077240242098159636/image.png)
 
 3. Now we'll add some JavaScript inside our script element to make the page do something more interesting — add the following code just below the "// JavaScript goes here" line:
+
 ![img.js.2](https://cdn.discordapp.com/attachments/442113342501552147/1077240809444872262/image.png)
 
 5. Save your file and refresh the browser — now you should see that when you click the button, a new paragraph is generated and placed below.
@@ -133,9 +135,11 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 1. Make a script.JS file
 
 2. Replace current script with the following below:
+
 ![img.js.3](https://cdn.discordapp.com/attachments/442113342501552147/1077241272105967677/image.png)
 
 3. Inside script.js add the following script:
+
 ![img.js.4](https://cdn.discordapp.com/attachments/442113342501552147/1077241554479095879/image.png)
 
 4. Save and refresh your browser, and you should see the same thing! It works just the same, but now we've got our JavaScript in an external file. This is generally a good thing in terms of organizing your code and making it reusable across multiple HTML files. Plus, the HTML is easier to read without huge chunks of script dumped in it.
