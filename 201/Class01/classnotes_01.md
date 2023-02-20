@@ -1,1 +1,121 @@
 # Setup Developer Toolbelt
+
+### Getting Started
+![Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+
+
+### How the Web Works
+![Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+**How the web works:** provides a simplified view of what happens when you view a webpage in a web browser on your device. 
+
+This theory is **not essential** to writing web code in the short term.
+
+#### Cilents & Servers
+
+**cilents & servers:** computers connected to the internet
+
+![cilent-server-img](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works/simple-client-server.png)
+
+**Cilents**
+- typically web user's internet connected devices
+
+**Servers**
+- computers that store webpages, sites, or apps
+
+**How it works:**
+A copy of the webpage is downloaded from the server onto the cilent machine to dispaly in the user's web browser
+
+#### What Happens, Exactly?
+1. Browser goes to DNS server, finds real address of the server that the website lives on. 
+
+2. Browser sends an HTTP request message to the server, asking it to send a copy of the website to the cilent.
+
+3. If the server approves the client's request, the server sends the client a "200 OK" message, which means "Of course you can look at that website! Here it is", and then starts sending the website's files to the browser as a series of small chunks called data packets.
+
+4. Browser assembles the small chunks into a complete web page and displays it to you.
+
+#### Order in Which Files are Parsed
+
+```
+<link> element references to external CSS stylesheets
+```
+
+```
+<script> element refrences to scripts
+```
+
+- Browsers parses HTML and sends requests back to the server for any CSS files it found from the **link** element and any JS files from the **script** element. It then parses them.
+
+- Browser generate in-memory DOM tree from parsed HTML
+
+- Generates an in-memory CSSOM structure from parsed CSS
+
+- Compiles and executes from parsed JS
+
+#### DNS & Packets Explained
+
+- IP Addresss represents a unique location on the web. 
+
+- Domain Name Servers were invented to be memorable alongsie IP Addresses
+
+- Packets are the format in which data is sent from sever to cilent
+
+
+### Website Design & Progress
+![website-design](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
+
+#### Planning
+ 1. What is your
+
+ 2. What information are you presenting on the subject?
+
+ 3. What does your website look like
+
+ #### Sketch Design
+- Draw out the layout
+
+#### Choosing Assets
+- Pick contents that will appear on page
+- Text, Theme Color, Images, Font
+
+### JavaScript Basics
+
+## Introduction to HTML
+
+### Getting Started
+
+### HTML Document Structure
+
+### Metadata in HTL
+
+## Miscellaneous
+
+### How to Start Website Design
+
+### Semantics
+
+### What's JavaScript?
+
+## Defintions
+
+**Your Internet Connection:**  Allows you to send and receive data on the web.
+
+**TCP/IP:** Communication protocols that define how data should travel across the internet. 
+- TCP: Transmission Control Protocol
+- IP: Internet Protocol
+
+**DNS:** Address book for websites.
+- DNS: Domain Name System
+
+**HTTP:** Application protocol that defines a language for clients and servers to speak to each other. 
+- HTTP: Hypertext Transfer Protocol
+
+**Component Files:** Many different files that make up a website.
+
+**Code Files:** HTML, CSS, and JavaScript
+
+**Assets:** Collective name for all other stuff that makes up a website.
+- Images, music, videos, word couments, and PDFs
+
+## Things I want to know more about
