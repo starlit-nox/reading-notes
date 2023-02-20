@@ -5,20 +5,20 @@
 ### Getting Started Summary
 
 ### Introduction to HTML Summary
-1. **Compose a short poem descriibing how HTTP sends data between computers.**
+1. **Compose a short poem describing how HTTP sends data between computers.**
 
 Haiku
 
 ```
 Send a request to the server friend
 Asking for something to be returned
-Oh cilent, where is my copy?
+Oh client, where is my copy?
 Finally, approved with a 200 OK.
 ```
 
 2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
-- browser parses the files by which one that leads, which is HTML and it reads and reocgnizes any link elements referenced to external CSS stylehseets and script elements referenced to scripts
+- browser parses the files by which one that leads, which is HTML and it reads and recognizes any link elements referenced to external CSS stylesheets and script elements referenced to scripts
 
 - it sends requests back to the server for any CSS and JS files and from those it parses CSS and JS
 
@@ -26,22 +26,22 @@ Finally, approved with a 200 OK.
 
 - browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JS
 
-- it works simliar to a painter building up a painting
+- it works similar to a painter building up a painting
 
 3. **How can you find images to add to a Website?**
 
 - Looking for royalty free / copyright free images on google
 
-- png tree, pixel bay, etc.
+- png tree, pixabay, etc.
 
 4. **How do you create a String vs a Number in JavaScript?**
 
-- a string can be indefnied by single, double, or backtick quotes
+- a string can be defined by single, double, or backtick quotes
 ```
 let name = "John";
 ```
 
-- numbers have no quotatons and are
+- numbers have no quotations and are
 ```
 let a = 1;
 ```
@@ -61,14 +61,14 @@ let a = 1;
 
 - starting off the anatomy is the opening tag < >
 - in the middle is the content < content >
-- ending it is the cloing tag < / >
+- ending it is the closing tag < / >
 - when all together it is called an element < / content >
 
 3. **What is the Difference between article and section element tags?**
 
 - the role of the article tag is to wrap autonomous content on a page (information than can be moved from one page to another)
 
-- the role of the section tag is similiar to the div tag, it wraps logical groups of content together
+- the role of the section tag is similar to the div tag, it wraps logical groups of content together
 
 4. **What Elements does a "typical" website include?**
 
@@ -82,7 +82,7 @@ let a = 1;
 
 - footer
 
-5. **How does metadata infleunce Search Engine Optimization?**
+5. **How does metadata influence Search Engine Optimization?**
 
 - sets up keywords for search engines
 
@@ -93,7 +93,7 @@ let a = 1;
 ### Semantics Summary
 1. **Why should you use an h1 element over a span element to display a top level heading?**
 
-- Span is an inline element and its similiar to div
+- Span is an inline element and its similar to div
 
 - H1 will directly show the results of the markdown as the header
 
@@ -103,11 +103,11 @@ let a = 1;
 
 - Search engines consider its contents as important keywords
 
-- Screen readers use it as a signpost to help viually impaired navigate the page
+- Screen readers use it as a signpost to help visually impaired navigate the page
 
-- Finding blocks of meaningful code signficiantlly easier than searching through endless divs or classes
+- Finding blocks of meaningful code significantly easier than searching through endless divs or classes
 
-- Suggests to the develper the type of data that will be populated
+- Suggests to the developer the type of data that will be populated
 
 - Semantic naming mirrors proper custom element/component naming
 
@@ -144,27 +144,27 @@ BELOW THIS POINT ARE NOTES
 
 **How the web works:** provides a simplified view of what happens when you view a webpage in a web browser on your device. 
 
-This theory is **not essential** to writing web code in the short term.
+This theory is **not essential** to write web code in the short term.
 
-#### Cilents & Servers
+#### Clients & Servers
 
-**cilents & servers:** computers connected to the internet
+**clients & servers:** computers connected to the internet
 
 ![cilent-server-img](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works/simple-client-server.png)
 
-**Cilents**
+**Clients**
 - typically web user's internet connected devices
 
 **Servers**
-- computers that store webpages, sites, or apps
+- computers that store web pages, sites, or apps
 
 **How it works:**
-A copy of the webpage is downloaded from the server onto the cilent machine to dispaly in the user's web browser
+A copy of the webpage is downloaded from the server onto the client machine to display in the user's web browser
 
 #### What Happens, Exactly?
-1. Browser goes to DNS server, finds real address of the server that the website lives on. 
+1. Browser goes to the DNS server, finds the real address of the server that the website lives on. 
 
-2. Browser sends an HTTP request message to the server, asking it to send a copy of the website to the cilent.
+2. Browser sends an HTTP request message to the server, asking it to send a copy of the website to the client.
 
 3. If the server approves the client's request, the server sends the client a "200 OK" message, which means "Of course you can look at that website! Here it is", and then starts sending the website's files to the browser as a series of small chunks called data packets.
 
@@ -190,11 +190,11 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 
 #### DNS & Packets Explained
 
-- IP Addresss represents a unique location on the web. 
+- IP Address represents a unique location on the web. 
 
-- Domain Name Servers were invented to be memorable alongsie IP Addresses
+- Domain Name Servers were invented to be memorable alongside IP Addresses
 
-- Packets are the format in which data is sent from sever to cilent
+- Packets are the format in which data is sent from server to client
 
 
 ### Website Design & Progress
@@ -225,7 +225,7 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 ### HTML Document Structure
 <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>
 
-### Metadata in HTL
+### Metadata in HTML
 <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML>
 
 ## Miscellaneous
@@ -239,13 +239,13 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 ### What's JavaScript?
 <https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript>
 
-**JavaScript:** cripting or programming language that allows you to implement complex features on web pages
+**JavaScript:** scripting or programming language that allows you to implement complex features on web pages
 
 ![delopver.mozzilla.img](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/execution.png)
 
 - common use is to dynamically modify HTML and CSS to update user interface
 
-- this is done via the ocument Object Model API (above image)
+- this is done via the document Object Model API (above image)
 
 - **NOTE** errors may occur if JavaScript is loaded and ran before the HTML and CSS
 
@@ -279,9 +279,9 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 
 4. Save and refresh your browser, and you should see the same thing! It works just the same, but now we've got our JavaScript in an external file. This is generally a good thing in terms of organizing your code and making it reusable across multiple HTML files. Plus, the HTML is easier to read without huge chunks of script dumped in it.
 
-**To look at other methods of adding, check otu the link under What's JavaScript?**
+**To look at other methods of adding, check out the link under What's JavaScript?**
 
-## Defintions
+## Definitions
 
 **Your Internet Connection:**  Allows you to send and receive data on the web.
 
@@ -308,6 +308,6 @@ A copy of the webpage is downloaded from the server onto the cilent machine to d
 - Background colors, fonts, laying out content in multiple columns
 
 **JavaScript:** scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else
-- Images, music, videos, word couments, and PDFs
+- Images, music, videos, word documents, and PDFs
 
 ## Things I want to know more about
