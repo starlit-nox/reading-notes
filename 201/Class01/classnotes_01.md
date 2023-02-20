@@ -7,13 +7,43 @@
 ### Introduction to HTML Summary
 1. **Compose a short poem descriibing how HTTP sends data between computers.**
 
+- ...
+
 2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
+
+- browser parses the files by which one that leads, which is HTML and it reads and reocgnizes any link elements referenced to external CSS stylehseets and script elements referenced to scripts
+
+- it sends requests back to the server for any CSS and JS files and from those it parses CSS and JS
+
+- browser then generates an in-emory DOM tree from the parsed HTML, CSSOM from the CSS, and complies & executes from JS
+
+- browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JS
+
+- it works simliar to a painter building up a painting
 
 3. **How can you find images to add to a Website?**
 
+- Looking for royalty free / copyright free images on google
+
+- png tree, pixel bay, etc.
+
 4. **How do you create a String vs a Number in JavaScript?**
 
+- a string can be indefnied by single, double, or backtick quotes
+```
+let name = "John";
+```
+
+- numbers have no quotatons and are
+```
+let a = 1;
+```
+
 5. **What is a Variable and why are they important in JavaScript?**
+
+- used to hold and change data values
+
+- they are important for changing inputs, such as adding usernames, passwords, etc.
 
 ### How to Start to Design a Website Summary
 1. **What is an HTML attribute?**
