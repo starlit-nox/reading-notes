@@ -7,7 +7,14 @@
 ### Introduction to HTML Summary
 1. **Compose a short poem descriibing how HTTP sends data between computers.**
 
-- ...
+Haiku
+
+```
+Send a request to the server friend
+Asking for something to be returned
+Oh cilent, where is my copy?
+Finally, approved with a 200 OK.
+```
 
 2. **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 
