@@ -22,7 +22,7 @@ Finally, approved with a 200 OK.
 
 - it sends requests back to the server for any CSS and JS files and from those it parses CSS and JS
 
-- browser then generates an in-emory DOM tree from the parsed HTML, CSSOM from the CSS, and complies & executes from JS
+- browser then generates an in-memory DOM tree from the parsed HTML, CSSOM from the CSS, and complies & executes from JS
 
 - browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JS
 
@@ -114,7 +114,7 @@ let a = 1;
 ### What is JavaScript
 **Describe 2 things that *require* JavaScript in the Browser?**
 
-1. In brower games
+1. In browser games
 2. Creating web and mobile apps
 
 **How can you add JavaScript to an HTML document?**
