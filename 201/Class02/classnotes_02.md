@@ -172,6 +172,11 @@ it creates an extra choice
 strict equality, less than, greater than or equal to
 
 **What is the difference between the logical operator && and ||?**
-&& allows you to chain together 2 or more expression so that all of them have to individually evaluate to true
 
+```
+&& allows you to chain together 2 or more expression so that all of them have to individually evaluate to true
+```
+
+```
 || allows you to chain together 2 or more expression so that one or more of them  have to individually evaluate to true
+```
