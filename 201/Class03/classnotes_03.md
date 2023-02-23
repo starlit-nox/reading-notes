@@ -95,6 +95,10 @@ x %= f()
 
  I put them in order of operations depending on the variable. 
 
+ You'll get (10false) + dog. The flase doesn't register so you get:
+
+ 10dog
+
 * **Describe a real world example of when a conditional statement should be used in a JavaScript program.**
 
 A conditional statement would be used in a JS program in the real world for a function that would change depending on the answer. Such as a weather app. The functions which run it would trigger on the condition of the surrounding area. 
