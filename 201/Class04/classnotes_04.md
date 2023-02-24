@@ -6,15 +6,20 @@
 
 * **To create a basic link, we wrap text or other content inside what element?**
 
+inside an a tag
 
+```
+<a> </a>
+```
+you can either use a src tag or a href tag
 
 * **The href attribute contains what information?**
 
-
+it contains the url/hyerplinks
 
 * **What are some ways we can ensure links on our pages are accessible to all readers?**
 
-
+you can add an alt= and add text so those who are visually impaired can still understand what the content in the image is
 
 ## Learn CSS
 
@@ -34,13 +39,18 @@ block elments typically cause a line break to occur
 
 * **___ positioning is the default for every html element.**
 
+static
 
 * **Name a few advantages to using absolute positioning on an element.**
+
+- cross browser suport
+- less floats and margins
 
 
 
 * **What is a key difference between fixed positioning and absolute positioning?**
 
+fixed positioning is relative to the container block while absolute positioning is relative to the viewport
 
 
 ## Learn JS
