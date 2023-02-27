@@ -1,7 +1,5 @@
 # Images, Color, Text, and More Work with Functions
 
-## Why It Matters (Personal Assessment)
-
 ## HTML Media Q&A
 
 * **What is a real world use case for the alt attribute being used in a website?**
