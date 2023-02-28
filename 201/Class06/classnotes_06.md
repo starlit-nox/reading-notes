@@ -5,6 +5,7 @@
 <https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics>
 
 **How would you describe an object to a non-technical friend you grew up with?**
+- Objects hold things for you. You can put whatever you want in it, and it'll contain it.
 
 **What are some advantages to creating object literals?**
 
