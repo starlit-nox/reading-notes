@@ -1,6 +1,6 @@
-# **Domain Modeling, Intro to the DOM & Object Literal Notation'**
+# Domain Modeling, Intro to the DOM & Object Literal Notation'
 
-## **JavaScript Object Basics**
+## **JavaScript Object Basics Q&A**
 
 <https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics>
 
@@ -41,7 +41,7 @@ const dog = {
 - its calling things from the object and referencing it through the keyword
 - the advantages of this is that its resuabile and uses less code by filing out the information then it outputs it back where its called to
 
-## **Introduction To The DOM**
+## **Introduction To The DOM Q&A**
 
 <https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction>
 
