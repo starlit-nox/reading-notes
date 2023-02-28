@@ -48,6 +48,7 @@ const dog = {
 **What is the DOM?**
 
 - Document Object Model: a programming interface for web documents
+- model of HTML page that stores memory
 
 **Briefly describe the relationship between the DOM and JavaScript.**
 
