@@ -49,8 +49,10 @@ const dog = {
 
 - Document Object Model: a programming interface for web documents
 - model of HTML page that stores memory
+- its makes it eaiser to work with the browser api
 
 **Briefly describe the relationship between the DOM and JavaScript.**
 
+- It enables the connection
 - DOM can manipulate JS
 - Dom manipulation lets you use JavaScript to add, remove, and modify eleents of a website
