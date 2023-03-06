@@ -1,6 +1,8 @@
-# Layout with CSS
+# Flexboxes
 
 ## What Can You Do with Flex Layout
+
+<https://web.dev/learn/css/flexbox/>
 
 - Can display as a row or column
 
@@ -115,17 +117,16 @@ Cross axis lines the flex boxes along the vertical axis
 
 **How can using certain properties of flexbox negatively impact accessibility?**
 
-They can sometimes have perfomance issues for the site
-
-They can increase the load time for large projects
+It changes the visability on the browser
+ 
+It can sometimes have perfomance issues for the site / increased load time for large sites
 
 **What are some advantages of using flexbox over float?**
 
-Its super responsive
+Flexbox is more versitile than float, float focuses on manipulating the display
 
-Its mobile-friendly
-
-Easily change the order of elemnts on our webpage without even making changes in html
+Flexbox is more mobile friendly too and it changes the order of the elements in the site without making changes in the htmls
 
 **How does this topic connect with your long term goals?**
 
+It connects with my long term goals seeing that I want to make make freelnace Toyhou.se profiles.
