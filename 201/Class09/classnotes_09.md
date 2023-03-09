@@ -61,6 +61,8 @@ JavaScript
 
 **How would you describe events to a non-technical friend?**
 
+- Events are done when you interact or trigger something. Its similar to cause and effect. 
+
 **When using the addEventListener() method, what 2 arguments will you need to provide?**
 
 1. type of the event (like " click " or " mousedown " or any other HTML DOM Event)
