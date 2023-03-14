@@ -27,3 +27,5 @@ This site is a table of contents for notes & informational summarises.
 ## [Code 301 - Intermediate Software Development](301/classes_301.md)
 
 ## [Code 401 - Advanced Software Development](401/classes_401.md)
+
+## [Master Glossary](help/toc_help.md)
