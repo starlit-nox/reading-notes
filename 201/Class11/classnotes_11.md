@@ -1,5 +1,15 @@
 # Audio & Video in HTML; Domain Modeling Revisited
 
+**scr set**: it'll only display one picture's size at a time which is determined by the screen size/ the width of the browser
+
+when you have a doccument slector with two elements with a plus sign between them, they are ajecient siblings (section + div) so it works like a div following a section
+
+the space selector would inspect the descendant selector
+
+how does math.random function work:
+min by default is 0
+max is the length of the array
+
 #  Q&A Questions
 
 ## Video and Audio Content
@@ -7,6 +17,7 @@
 
 **Explain how the ability to use video and audio on the web has evolved since the early 2000s.**
 
+back then you had to download and add them in as an addon and now a days you can just use a tag to connect theM
 
 **Describe the use of the src and controls attributes in the <video> element.**
 
@@ -44,7 +55,7 @@ grid line is the dividing line that works as the layout to seperate all the grid
 
 **Besides making a site visually appealing across different screen sizes, why should developers make images responsive?**
 
-making images responsive helps deliver high quality files that fits the screen and makes things more accessible. it overall imrpoves the user experience and the site's load time
+making images responsive helps deliver high quality files that fits the screen and makes things more accessible. it overall imrpoves the user experience and the site's load time. it also makes it so the content of the page changes and adjusts to approperiately fit the size of the window or the platform the site is viewed on. it dynammicaly adjusts the size to fit to scale
 
 **Define the following <img> attributes srcset and sizes. Write an example of how they are used.**
 
@@ -54,4 +65,4 @@ its used to add images and gifs to a webpage such as add profiling pictures, log
 
 **How is srcset more helpful for responsive images than CSS or JavaScript?**
 
-scrset is hepfl for responisve images because it allows the browser to pick its size so it lessens load times
+scrset is hepfl for responisve images because it allows the browser to pick its size so it lessens load times, it keeps a little more organized as well
