@@ -18,13 +18,13 @@ max is the length of the array
 **Explain how the ability to use video and audio on the web has evolved since the early 2000s.**
 back then you had to download and add them in as an addon and now a days you can just use a tag to connect theM
 
-**Describe the use of the src and controls attributes in the <video> element.**
+**Describe the use of the src and controls attributes in the video element.**
 src sources the video and adds it to the html and the control attributes adds the controls to it to use on the html
 
-**Why is it important to have fallback content inside the <video> element?**
+**Why is it important to have fallback content inside the video element?**
 it lets the video be able to be played through alternative means when the video cannot be used due to formatting or other errors
 
-**Write a very short story where <audio> and <video> are characters.**
+**Write a very short story where audio and video are characters.**
 amy the audio and vex the video were best friends. they shared the same interests but amy audio was more vocal and vex video was more showy
 
 whenever they went out, they would have to take theri friend sam src so they could take as a mediater when amy audio and vex video needed to connect to anything
