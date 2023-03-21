@@ -56,4 +56,4 @@ img attribute lets you add images in the site with either the file name or a url
 its used to add images and gifs to a webpage such as add profiling pictures, logos, etc.
 
 **How is srcset more helpful for responsive images than CSS or JavaScript?**
-scrset is hepfl for responisve images because it allows the browser to pick its size so it lessens load times, it keeps a little more organized as well
+scrset is helpful for responisve images because it allows the browser to pick its size so it lessens load times, it keeps a little more organized as well
