@@ -53,7 +53,7 @@ this topic fits in my long-term goals because I want to do front-end coding and 
 
 1. sense of confidence that the team will not embarrass, reject, or punish for speaking up
 2. clear goals
-3. cutlure of dependability
+3. culture of dependability
 
 **Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.**
 
@@ -61,4 +61,4 @@ in a professional setting, i had a somewhat healthy amount of psychology safety 
 
 **What impact do teams that operate with a high degree of psychological safety have on their company and the team members?**
 
-teams that operate with a high degree of psychological safety in their company/team tend to have a positive effect on the work cuture, people were confident to make decisons and remedy problems without the fear of making a mistake or errors and being unsure of what to do 
+teams that operate with a high degree of psychological safety in their company/team tend to have a positive effect on the work culture, people were confident to make decisions and remedy problems without the fear of making a mistake or errors and being unsure of what to do 
