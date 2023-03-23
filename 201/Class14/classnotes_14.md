@@ -1,6 +1,6 @@
 # Documentation, Project Selection, & Team Workflow
 
-# Q&A
+# Q&A (Lab 14)
 
 ## CSS Transforms
 
@@ -41,3 +41,24 @@ excite users, increase engagement, increases your conversions
 **How this topic fit in with your long-term goals?**
 
 this topic fits in my long-term goals because I want to do front-end coding and user enagement and retention is just as important as the design of the website
+
+# Q&A (Lab 14 Psychological Safety)
+
+
+## Discussion Questions
+
+<https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html>
+
+**What are three key factors that contribute to psychologically safe teams?**
+
+1. sense of confidence that the team will not embarrass, reject, or punish for speaking up
+2. clear goals
+3. cutlure of dependability
+
+**Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.**
+
+in a professional setting, i had a somewhat healthy amount of psychology safety in the work place. the the work team was confident in their work and if they weren't and mistakes happened they would not shame, reject, or punish for mistakes, accidents, and misunderstandings. the goals of the day were clear and if they weren't, the team leaders were willing to clarify or re-iterate throughout the day. as for dependability, that's another story. the team leaders are dependable but the co-workers i had were not. 
+
+**What impact do teams that operate with a high degree of psychological safety have on their company and the team members?**
+
+teams that operate with a high degree of psychological safety in their company/team tend to have a positive effect on the work cuture, people were confident to make decisons and remedy problems without the fear of making a mistake or errors and being unsure of what to do 
