@@ -1,14 +1,18 @@
 # Introduction to React and Components
 
+## Why Its Important
+
+This topic is important because it teaches React JS. The main use of it for coders is how it allows a lot more reusabiltiy for code, which will save time.
+
 ## Component-Based Architecture 
 
 
 
 -----------------
 
-### Reading Q&A
+## Reading Q&A
 
-**Component-Based Architecture**
+### **Component-Based Architecture**
 
 <https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm>
 
@@ -57,7 +61,7 @@ It also is a software object that is used to interact with other components.
 
 -----------------
 
-**What is Props and How to Use it in React**
+### **What is Props and How to Use it in React**
 
 <https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child>
 
@@ -96,3 +100,8 @@ React Docs - Rendering elements
 
 React Docs - Components and props
 <https://legacy.reactjs.org/docs/components-and-props.html>
+
+-----------------
+
+
+## Things I Want to Know More About
