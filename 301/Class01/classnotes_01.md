@@ -1,8 +1,8 @@
 # Introduction to React and Components
 
-## Why Its Important
+## Why It's Important
 
-This topic is important because it teaches React JS. The main use of it for coders is how it allows a lot more reusabiltiy for code, which will save time.
+This topic is important because it teaches React JS. The main use of it for coders is how it allows a lot more reusability for code, which will save time.
 
 ## Component-Based Architecture 
 
@@ -18,7 +18,7 @@ This topic is important because it teaches React JS. The main use of it for code
 
 **What is a "component"?**
 
-A component is a modular, portable, replacabe, and reusable set of well-defined funtional code that captures its implentations and exports it as a higher level interface for users. 
+A component is a modular, portable, replaceable, and reusable set of well-defined functional code that captures its implementations and exports it as a higher level interface for users. 
 
 It also is a software object that is used to interact with other components.
 
@@ -26,17 +26,17 @@ It also is a software object that is used to interact with other components.
 
 **What are the characters of a component?**
 
-- **Reusability:** Components are sually designed to be reused in different siutations in diferent applications. However, some components may be designed for a specific task
+- **Reusability:** Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task
 
-- **Replacable:**  Compoents may be freely subtistuted with other similiar components
+- **Replaceable:**  Components may be freely substituted with other similar components
 
-- **Not Context Specific:** Components are desgined to operate in different enviroemnts and contexts
+- **Not Context Specific:** Components are designed to operate in different environments and contexts
 
 - **Extensible:** Component can be extended from existing components to provide new behavior
 
-- **Encapsulated:** Complents depict the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.
+- **Encapsulated:** Components depict the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.
 
-- **Independent:** Components are designed to have minimal dependencies on toher components
+- **Independent:** Components are designed to have minimal dependencies on other components
 
 ---
 
@@ -67,7 +67,7 @@ It also is a software object that is used to interact with other components.
 
 **What is "props" short for?**
 
-Props is a special keyword in React. It stands for properities. 
+Props is a special keyword in React. It stands for properties. 
 
 
 ---
