@@ -1,8 +1,8 @@
-# State and Props
+# Introduction to React and Components
 
 ## Why It's Important
 
-Text
+The reason that this information is important is because it's explaining the difference between State and Props. The two have different uses and purposes. If you were to confuse them, it could ruin your code or cause errors to happen.
 
 ## State & Props Notes
 
