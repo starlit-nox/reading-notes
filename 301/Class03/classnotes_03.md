@@ -16,7 +16,7 @@ Words
 
 **Spread Syntax:** ...
 
-- It spreasd the array into seperate arguments
+- It spreads the array into separate arguments
 
 **Spread Syntax can Do:**
 
