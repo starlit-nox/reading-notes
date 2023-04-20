@@ -18,17 +18,6 @@ Words
 
 - It spreasd the array into seperate arguments
 
-```
-[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
-[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
-
-const hello = {hello: "😋😛😜🤪😝"}
-const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
-
-const helloWorld = {...hello,...world}
-console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
-```
-
 **Spread Syntax can Do:**
 
 - Copy an Array
@@ -42,6 +31,35 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 
 **Examples with ...**
 
+```
+[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
+[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
+
+const hello = {hello: "😋😛😜🤪😝"}
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
+
+const helloWorld = {...hello,...world}
+console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
+```
+
+Lines 1 & 2 are two arrays and Line 2 is restating the array
+
+Line 4 & 5 are objects with the array
+
+---
+
+
+
+```
+increment = (ev) => {
+    ev.preventdefault();
+    this.setState({hasChanged:true});
+}
+```
+
+The above code is short-hand for increment updating.
+
+Increment is the function
 
 -----------------
 
@@ -96,19 +114,40 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 
 **Give an example of using the spread operator to combine two arrays.**
 
-- Answer
+```
+[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
+[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
+
+const hello = {hello: "😋😛😜🤪😝"}
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
+
+const helloWorld = {...hello,...world}
+console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
+```
 
 ---
 
 **Give an example of using the spread operator to add a new item to an array.**
 
-- Answer
+```
+const fruits = ['Apple', 'Orange', 'Pineapple']
+const moreFruits = [...fruits];
+console.log(moreFruits) ['Apple', "Orange', 'Pineapple', 'Watermelon', 'Grapes']
+fruits[0] = 'Plum'
+console.log(...[...fruits,'...',...moreFruits])
+```
 
 ---
 
 **Give an example of using the spread operator to combine two objects into one.**
 
-- Answer
+```
+
+const myArray = [`🤪`,`🐻`,`🎌`]
+const yourArray = [`🙂`,`🤗`,`🤩`]
+const ourArray = [...myArray,...yourArray]
+console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
+```
 
 -----------------
 
@@ -124,13 +163,13 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 
 **In your own words, what does the increment function do?**
 
-- Answer
+- It increases the count of an object by a certain number
 
 ---
 
 **How can you pass a method from a parent component into a child component?**
 
-- Answer
+- You're passing it to the child component by calling the method down from the parent to the child.
 
 ---
 
