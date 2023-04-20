@@ -6,6 +6,42 @@ Words
 
 ## Passing Functions as Props
 
+**Key:** special string attribute you need to include when creating lists of elements 
+
+- its important for react to function
+- it helps React identify which items changed, are added, or removed
+- don't use keys if the index item order may change
+
+**Spread operators un-array your array - DJ**
+
+**Spread Syntax:** ...
+
+- It spreasd the array into seperate arguments
+
+```
+[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
+[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
+
+const hello = {hello: "😋😛😜🤪😝"}
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
+
+const helloWorld = {...hello,...world}
+console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
+```
+
+**Spread Syntax can Do:**
+
+- Copy an Array
+- Concatenating or combining arrays
+- Using Math functions
+- Using an array as arguments
+- Adding an item to a list
+- Adding to state in React
+- Combining objects
+- Converting NodeList to an array
+
+**Examples with ...**
+
 
 -----------------
 
@@ -17,13 +53,13 @@ Words
 
 **What does .map() return?**
 
-- It returns an li element. (List element)
+- It iterates an array and manipulates or changes the data in the items
 
 ---
 
 **If I want to loop through an array and display each value in JSX, how do I do that in React?**
 
-- Answer
+- You put a component in the function
 
 ---
 
@@ -35,7 +71,7 @@ Words
 
 **What is the purpose of a key?**
 
-- The **Key** is used to identify something when it doesn't have a stable ID.
+- The **Key** is used to identify something when it doesn't have a stable ID and keeps track of the items.
 
 -----------------
 
@@ -111,15 +147,6 @@ React Tutorial through ‘Declaring a Winner’
 
 React Docs - Lifting State Up
 <https://legacy.reactjs.org/docs/lifting-state-up.html>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
 
 -----------------
 
