@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+This is important because it gives us the syntax needed to be able to apply these elements to our code. It also helps us learn the wording for it and be able to determine and decide what we need to do to set up certain arrays.
 
 ## Passing Functions as Props
 
@@ -157,7 +157,7 @@ console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 
 **In the video, what is the first step that the developer does to pass functions between components?**
 
-- Answer
+- The developer created a function in the parent that controls the state
 
 ---
 
@@ -175,7 +175,7 @@ console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
 
 **How does the child component invoke a method that was passed to it from a parent component?**
 
-- Answer
+- it calls the method that was passed to it as a prop
 
 -----------------
 
