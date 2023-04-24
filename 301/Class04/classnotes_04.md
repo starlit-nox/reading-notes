@@ -4,71 +4,76 @@
 
 Words
 
-## ReadingSubject
+## React and Forms
 
 
 -----------------
 
 ## Reading Q&A
 
-### **QATitle**
+### **React Docs - Forms**
 
-<link>
+<https://legacy.reactjs.org/docs/forms.html>
 
-**Question**
+**What is a ‘Controlled Component’?**
 
-- Answer
+- its a component that is controlled by state in React.JS
+
+Example:
+
+```
+<input>
+```
+
+```
+<textarea>
+```
+
+```
+<select>
+```
 
 ---
 
-**Question**
+**Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.**
 
-- Answer
+- you sshould update the state with their response as soon as they enter them because you want to have the site up-to-date for the users at all times, so an immediate storage and update is needed
 
 ---
 
-**Question**
+**How do we target what the user is entering if we have an event handler on an input field?**
 
-- Answer
+- you use uncontrolled components since they won't update unless its the event handler they're attached to
 
 -----------------
 
-### **QATitle**
+### **The Conditional (Ternary) Operator Explained**
 
-<link>
+<https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff>
 
-**Question**
+**Why would we use a ternary operator?**
 
-- Answer
+- it lets us assign one value to the variable if its true and another value if its false, so its good for outputting two difference responses depending on the answer it recieves.
 
 ---
 
-**Question**
+**Rewrite the following statement using a ternary statement:**
 
-- Answer
----
+![Q&AQuestion][https://cdn.discordapp.com/attachments/442113342501552147/1100072738120536204/image.png]
 
-**Question**
+```
+x===y ? 
+```
 
-- Answer
 -----------------
 
 ### Bookmarks & Review
 
-BookmarkTitle
-<link>
+React Bootstrap - Forms
+<https://react-bootstrap.github.io/forms/overview/>
 
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
+React Docs - conditional rendering
+<https://legacy.reactjs.org/docs/conditional-rendering.html>
 
 -----------------
 
