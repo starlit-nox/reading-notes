@@ -62,7 +62,7 @@ Example:
 ![Q&AQuestion][https://cdn.discordapp.com/attachments/442113342501552147/1100072738120536204/image.png]
 
 ```
-x===y ? 
+x===y = value if true : value if false
 ```
 
 -----------------
