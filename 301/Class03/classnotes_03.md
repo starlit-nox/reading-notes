@@ -65,7 +65,9 @@ Increment is the function
 
 **How to Modal**
 
-!(modal-disucssion)[https://cdn.discordapp.com/attachments/442113342501552147/1100099958188810350/App-Moda-Discussion.png]
+![modal-disucssion](https://cdn.discordapp.com/attachments/442113342501552147/1100099958188810350/App-Moda-Discussion.png)
+
+
 
 ## Reading Q&A
 
