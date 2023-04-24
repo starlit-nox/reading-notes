@@ -2,14 +2,7 @@
 
 ## Why It's Important
 
-Words
-
-## React and Forms
-
-
------------------
-
-## Reading Q&A
+This information is important because it explains how to create forms in React and explains how it functions which allows us to add forms to our applications.
 
 ### **React Docs - Forms**
 
