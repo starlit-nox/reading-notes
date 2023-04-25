@@ -4,7 +4,7 @@
 
 Words
 
-## ReadingSubject
+## REST
 
 
 -----------------
@@ -15,59 +15,102 @@ Words
 
 <link>
 
-**Question**
+**Who is Roy Fielding?**
 
 - Answer
 
 ---
 
-**Question**
+**Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?**
 
 - Answer
 
 ---
 
-**Question**
+**What is the HTTP protocol that Fielding and his friends created?**
 
 - Answer
+
+**What does a GET do?**
+
+- Answer
+
+---
+
+**What does a POST do?**
+
+- Answer
+
+---
+
+**What does PUT do?**
+
+- Answer
+
+---
+
+**What does PATCH do?**
+
+- Answer
+
 
 -----------------
 
-### **QATitle**
+### **Geocoding API**
 
-<link>
+<https://locationiq.com/>
 
-**Question**
+**Did you get your API key?**
 
-- Answer
+- Yes
 
----
+-----------------
 
-**Question**
+### **Weather Bit API**
 
-- Answer
----
+<https://www.weatherbit.io/>
 
-**Question**
+**Did you get your API key?**
 
-- Answer
+- No
+
+-----------------
+
+### **Yelp API Docs**
+
+<https://docs.developer.yelp.com/reference/v3_business_search>
+
+**Did you get your API key?**
+
+- No
+
+-----------------
+
+### **The Movie DB API Docs**
+
+<https://developers.themoviedb.org/3/getting-started/introduction>
+
+**Did you get your API key?**
+
+- No
+
 -----------------
 
 ### Bookmarks & Review
 
-BookmarkTitle
+**BookmarkTitle**
 <link>
 
-BookmarkTitle
+**BookmarkTitle**
 <link>
 
-BookmarkTitle
+**BookmarkTitle**
 <link>
 
-BookmarkTitle
+**BookmarkTitle**
 <link>
 
-BookmarkTitle
+**BookmarkTitle**
 <link>
 
 -----------------

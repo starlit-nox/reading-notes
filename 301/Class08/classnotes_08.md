@@ -4,71 +4,96 @@
 
 Words
 
-## ReadingSubject
+## APIs
 
 
 -----------------
 
 ## Reading Q&A
 
-### **QATitle**
+### **API Design Best Practices
+
+**
 
 <link>
 
-**Question**
+**What does REST stand for?**
 
 - Answer
 
 ---
 
-**Question**
+**REST APIs are designed around a ____.**
 
 - Answer
 
 ---
 
-**Question**
-
-- Answer
-
------------------
-
-### **QATitle**
-
-<link>
-
-**Question**
+**What is an identifier of a resource? Give an example.**
 
 - Answer
 
 ---
 
-**Question**
+**What are the most common HTTP verbs?**
 
 - Answer
+
 ---
 
-**Question**
+**What should the URIs be based on?**
 
 - Answer
+
+---
+
+**Give an example of a good URI.**
+
+- Answer
+
+---
+
+**What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?**
+
+- Answer
+
+---
+
+**What status code does a successful GET request return?**
+
+- Answer
+
+---
+
+**What status code does an unsuccessful GET request return?**
+
+- Answer
+
+---
+
+**What status code does a successful POST request return?**
+
+- Answer
+
+---
+
+**What status code does a successful DELETE request return?**
+
+- Answer
+
+
 -----------------
 
 ### Bookmarks & Review
 
-BookmarkTitle
-<link>
+**RegExr*Cheatsheet**
+<https://regexr.com/>
 
-BookmarkTitle
-<link>
+**Regex Tutorial**
+<https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285>
 
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
+**Regex 101**
+<https://regex101.com/>
 
 -----------------
 
