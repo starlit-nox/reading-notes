@@ -84,7 +84,7 @@ Words
 
 **Did you get your API key?**
 
-- No
+- Yes
 
 -----------------
 
