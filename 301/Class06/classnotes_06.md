@@ -31,7 +31,7 @@ Words
 
 - HTTP is like applying verbs to nouns. When you get to a web page the browser does an HTTP GET on the URL you typed in and comes back a web page. 
 
-The web page species the URLs to the image and browser goes and does mroe GETs using the HTTP protocol on them until all the resources are obtained and the web page is displayed. 
+- The web page species the URLs to the image and browser goes and does mroe GETs using the HTTP protocol on them until all the resources are obtained and the web page is displayed. 
 
 **What does a GET do?**
 
@@ -74,7 +74,7 @@ The web page species the URLs to the image and browser goes and does mroe GETs u
 
 **Did you get your API key?**
 
-- No
+- Yes
 
 -----------------
 
@@ -94,7 +94,7 @@ The web page species the URLs to the image and browser goes and does mroe GETs u
 
 **Did you get your API key?**
 
-- No
+- Yes
 
 -----------------
 
