@@ -17,13 +17,13 @@ The text is important because its explaining the start of the web as well as wha
 
 **Who is Roy Fielding?**
 
-- Roy Fielding is an engineer who started building the web so we'd be able to talk to any machines anywhere in the world and we use them today to have computers talk to each other. 
+- Roy Fielding is an a smart man who helped write the first web servers that sent documents across the internet. His name is on the specification for the protocol that is used to get pages from servers to your browser.
 
 ---
 
 **Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?**
 
-- That's because they weren't designed to be used like that. When Fielding started building the web, the goal was to be able to talk to any machine in the world. Most of the techniques developers later used to get computers to talk to each other didn't have those same requirements as past machines. 
+- We write things in a call-reponse type format. Its not set up as a one to many relatiosnhip. 
 
 ---
 
@@ -33,9 +33,13 @@ The text is important because its explaining the start of the web as well as wha
 
 - The web page species the URLs to the image and browser goes and does mroe GETs using the HTTP protocol on them until all the resources are obtained and the web page is displayed. 
 
+---
+
 **What does a GET do?**
 
 - Get is a universal command that's used in coding to get requested data. 
+
+- It Gets it through the URL
 
 ---
 
@@ -43,11 +47,15 @@ The text is important because its explaining the start of the web as well as wha
 
 - Post adds something from one system to another system.
 
+- Post uploads;
+
 ---
 
 **What does PUT do?**
 
 - Put replaces something in one system from another system.
+
+- Put updates.
 
 ---
 
@@ -55,6 +63,7 @@ The text is important because its explaining the start of the web as well as wha
 
 - Patch updates something in a system. 
 
+- Patch does a partial update.
 
 -----------------
 
