@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+The text is important because its explaining the start of the web as well as what the command web are: GET, POST, PUT, PATCH. They explain these things in layman's terms. 
 
 ## REST
 
