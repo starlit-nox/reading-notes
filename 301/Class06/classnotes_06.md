@@ -6,6 +6,21 @@ The text is important because its explaining the start of the web as well as wha
 
 ## REST
 
+**error catching:** writing more code around your code to find errors/catch errors
+
+**Example of Error Catching:**
+
+```
+try {
+    console.log(AY):
+} catch (error) {
+    console.log (error)
+    consoloe.log("Contact Inustrcotrs, Jay was undefiend")
+} finally {
+    (consoloe.log*'The End');
+}
+```
+
 
 -----------------
 
