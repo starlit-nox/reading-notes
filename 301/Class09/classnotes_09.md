@@ -4,38 +4,62 @@
 
 Words
 
-## ReadingSubject
+## Functional Programming
 
 
 -----------------
 
 ## Reading Q&A
 
-### **QATitle**
+### **Functional Programming Concepts**
 
-<link>
+<https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa>
 
-**Question**
-
-- Answer
-
----
-
-**Question**
+**What is functional programming?**
 
 - Answer
 
 ---
 
-**Question**
+**What is a pure function and how do we know if something is a pure function**
+
+- Answer
+
+---
+
+**What are the benefits of a pure function?**
+
+- Answer
+
+---
+
+**What is immutability?**
+
+- Answer
+
+---
+
+**What is Referential transparency?**
 
 - Answer
 
 -----------------
 
-### **QATitle**
+### **Node JS Tutorial for Beginners #6 - Modules and require()**
 
-<link>
+<https://www.youtube.com/watch?v=xHLd36QoS4k>
+
+**What is a module?**
+
+- Answer
+
+---
+
+**What does the word ‘require’ do?**
+
+- Answer
+
+---
 
 **Question**
 
@@ -46,6 +70,7 @@ Words
 **Question**
 
 - Answer
+
 ---
 
 **Question**

@@ -21,6 +21,8 @@ This information is important because its giving information about NODE.JS It al
 
 - Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library.
 
+- It runs JS on the serverside. 
+
 
 ---
 
@@ -43,7 +45,9 @@ This means that Node.js is a program we can use to execute JavaScript on our com
 
 **What is npm?**
 
-- NPM is package manager that comes bundled with Node.
+- NPM stands for Node Package Manager
+
+- NPM is package manager that comes bundled with Node. Its short cuts you can configure.
 
 ---
 
@@ -64,6 +68,9 @@ This means that Node.js is a program we can use to execute JavaScript on our com
 ```
 npm install -g jshint
 ```
+-g is short for global
+
+It'll call the package as a global enviroment package for the machine. 
 
 ---
 

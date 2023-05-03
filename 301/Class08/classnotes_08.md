@@ -11,11 +11,9 @@ Words
 
 ## Reading Q&A
 
-### **API Design Best Practices
+### **API Design Best Practices**
 
-**
-
-<link>
+<https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design>
 
 **What does REST stand for?**
 
