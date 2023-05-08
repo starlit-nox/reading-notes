@@ -4,71 +4,105 @@
 
 Words
 
-## ReadingSubject
+## CRUD
 
 
 -----------------
 
 ## Reading Q&A
 
-### **QATitle**
+### **Status Codes Based On REST Methods**
 
-<link>
+<https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/>
 
-**Question**
+**In your own words, describe what each group of status code represents:**
+
+100’s =
+200’s =
+300’s =
+400’s =
+500’s =
+
+---
+
+**What is a status code 202?**
 
 - Answer
 
 ---
 
-**Question**
+**What is a status code 308?**
 
 - Answer
 
 ---
 
-**Question**
+**What code would you use if an update didn’t return data to a client?**
+
+- Answer
+
+---
+
+**What code would you use if a resource used to exist but no longer does?**
+
+- Answer
+
+---
+
+**What is the ‘Forbidden’ status code?**
 
 - Answer
 
 -----------------
 
-### **QATitle**
+### **Build A REST API With Node.js, Express, & MongoDB - Quick **
 
-<link>
+<https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw>
 
-**Question**
+**Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
 
 - Answer
 
 ---
 
-**Question**
+**What is middleware?**
 
 - Answer
 ---
 
-**Question**
+**What does app.use(express.json()) do?**
 
 - Answer
------------------
 
-### Bookmarks & Review
+---
 
-BookmarkTitle
-<link>
+**What does the /:id mean in a route?**
 
-BookmarkTitle
-<link>
+- Answer
 
-BookmarkTitle
-<link>
+---
 
-BookmarkTitle
-<link>
+**What is the difference between PUT and PATCH?**
 
-BookmarkTitle
-<link>
+- Answer
+
+---
+
+**How do you make a default value in a schema?**
+
+- Answer
+
+---
+
+**What does a 500 error status code mean?**
+
+- Answer
+
+---
+
+**What is the difference between a status 200 and a status 201?**
+
+- Answer
 
 -----------------
 

@@ -6,6 +6,11 @@ Words
 
 ## APIs
 
+
+## URI CSS
+
+<https://css-tricks.com/guidelines-for-uri-design/>
+
 ### Define API Operations in HTTP Methods
 
 **GET** retrieves a representation of the resource at the specified URI. The body of the response message contains the details of the requested resource.
@@ -149,7 +154,9 @@ abc
 
 **Give an example of a good URI.**
 
-- Answer
+```
+https://adventure-works.com/orders/1
+```
 
 ---
 
