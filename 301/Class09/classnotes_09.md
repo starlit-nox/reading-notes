@@ -61,21 +61,16 @@ Words
 
 ---
 
-**Question**
+**How do we bring another module into the file the we are working in?**
 
 - Answer
 
 ---
 
-**Question**
+**What do we have to do to make a module available?**
 
 - Answer
 
----
-
-**Question**
-
-- Answer
 -----------------
 
 ### Bookmarks & Review

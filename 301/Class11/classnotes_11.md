@@ -11,64 +11,129 @@ Words
 
 ## Reading Q&A
 
-### **QATitle**
+### **nosql vs sql (article)**
 
-<link>
+<https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool>
 
-**Question**
+***Fill in the chart below with five differences between SQL and NoSQL databases:**
+
+![QAChartQuestion](https://cdn.discordapp.com/attachments/442113342501552147/1105161610898702446/image.png)
+
+SQL
+
+1.
+2.
+3.
+4.
+
+NoSQL
+
+1.
+2.
+3.
+4.
+
+---
+
+**What kind of data is a good fit for an SQL database?**
 
 - Answer
 
 ---
 
-**Question**
+**Give a real world example.**
 
 - Answer
 
 ---
 
-**Question**
+**What kind of data is a good fit a NoSQL database?**
+
+- Answer
+
+---
+
+**Give a real world example.**
+
+- Answer
+
+---
+
+**Which type of database is best for hierarchical data storage?**
+
+- Answer
+
+---
+
+**Which type of database is best for scalability?**
 
 - Answer
 
 -----------------
 
-### **QATitle**
+### **sql vs nosql (video)**
 
-<link>
+<https://www.youtube.com/watch?v=ZS_kXvOeQ5Y>
 
-**Question**
+**What does SQL stand for?**
 
 - Answer
 
 ---
 
-**Question**
+**What is a relational database?**
 
 - Answer
 ---
 
-**Question**
+**What type of structure does a relational database work with?**
+
+- Answer
+
+---
+
+**What is a ‘schema’?**
+
+- Answer
+
+---
+
+**What is a NoSQL database?**
+
+- Answer
+
+---
+
+**How does it work?**
+
+- Answer
+
+---
+
+**What is inside of a MongoDB database?**
+
+- Answer
+
+---
+
+**Which is more flexible - SQL or MongoDB? and why.**
+
+- Answer
+
+---
+
+**What is the disadvantage of a NoSQL database?**
 
 - Answer
 -----------------
 
 ### Bookmarks & Review
 
-BookmarkTitle
-<link>
+mongoose api
+<https://reactrouter.com/en/6.11.1/web/api/BrowserRouter>
 
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
+React Router
+<https://reactrouter.com/en/6.11.1/web/api/BrowserRouter>
 
 -----------------
 

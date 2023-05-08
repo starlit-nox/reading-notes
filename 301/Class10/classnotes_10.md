@@ -9,48 +9,86 @@ Words
 
 -----------------
 
-## Reading Q&A
+## In memory storage
 
-### **QATitle**
+### **Understanding the JavaScript Call Stack**
 
-<link>
+<https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4>
 
-**Question**
-
-- Answer
-
----
-
-**Question**
+**What is a ‘call’?**
 
 - Answer
 
 ---
 
-**Question**
+**How many ‘calls’ can happen at once?**
+
+- Answer
+
+---
+
+**What does LIFO mean?**
+
+- Answer
+
+---
+
+**Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
+
+- Answer
+
+---
+
+**What causes a Stack Overflow?**
 
 - Answer
 
 -----------------
 
-### **QATitle**
+### **JavaScript error messages**
 
-<link>
+<https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c>
 
-**Question**
+**What is a ‘reference error’?**
 
 - Answer
 
 ---
 
-**Question**
+**What does the word ‘require’ do?**
 
 - Answer
+
 ---
 
-**Question**
+**What is a ‘syntax error’?**
 
 - Answer
+
+---
+
+**What is a ‘range error’?**
+
+- Answer
+
+---
+
+**What is a ‘type error’?**
+
+- Answer
+
+---
+
+**What is a breakpoint?**
+
+- Answer
+
+---
+
+**What does the word ‘debugger’ do in your code?**
+
+- Answer
+
 -----------------
 
 ### Bookmarks & Review
