@@ -2,10 +2,9 @@
 
 ## Why It's Important
 
-This information is important because its breaking down the design of APIs and showing us the best practices for it. The information also goes over what a URI is, what it stands for, and how they're set up to be. This teaches us how we need to be creating the APIs and the method to the madness behind URIs and how to make a good one.
+This information is important because it breaks down the design of APIs and shows us the best practices for it. The information also goes over what a URI is, what it stands for, and how they're set up to be. This teaches us how we need to be creating the APIs and the method to the madness behind URIs and how to make a good one.
 
 ## APIs
-
 
 ### URI CSS
 
@@ -63,7 +62,7 @@ Using a regular expression literal, which consists of a pattern enclosed between
 const re = /wx+y/;
 ```
 
-Reg. expression literals can compile reg. rexpressions when the script is closed. Or call constructor functions of the object
+Reg. expression literals can compile reg. expressions when the script is closed. Or call constructor functions of the object
 
 below RegExp (constructor function) is being called
 
@@ -89,7 +88,7 @@ Let's use /abc/ for this example:
 "Hi, do you know your abc's?"
 ```
 
-The subscrib 'abc' won't be picked up because abc isn't exactly in orer. In the exaple, the substring is reading:
+The subscript 'abc' won't be picked up because abc isn't exactly in order. In the example, the substring is reading:
 
 ```
 ab c
@@ -122,7 +121,7 @@ abc
 
 - resource
 
-- any kind of object, data, or service that can be accessed by the cilent
+- any kind of object, data, or service that can be accessed by the client
 
 ---
 
@@ -211,10 +210,10 @@ https://adventure-works.com/orders/1
 Uniform Resource Identifier
 
 **What is a URI?**
-It is a character sequence that idenitfies a logical or physical resource.
+It is a character sequence that identifies a logical or physical resource.
 
 **What's the difference between URI and URL?**
 They body follow the same specifications: RFC 3986
-URLs allow you to locate a resource while a URI simply indentifies a resource. 
+URLs allow you to locate a resource while a URI simply identifies a resource. 
 
-URI is not really intended as an address to geta resource. It's just there to identify resources.
+URI is not really intended as an address to get a resource. It's just there to identify resources.
