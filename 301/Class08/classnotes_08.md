@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+This information is important because its breaking down the design of APIs and showing us the best practices for it. The information also goes over what a URI is, what it stands for, and how they're set up to be. This teaches us how we need to be creating the APIs and the method to the madness behind URIs and how to make a good one.
 
 ## APIs
 
