@@ -17,13 +17,13 @@ Words
 
 **What is functional programming?**
 
-- Answer
+- Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data — Wikipedia
 
 ---
 
 **What is a pure function and how do we know if something is a pure function**
 
-- Answer
+- A pure function is the first fundamental concept that is leanred when we want to understand functional programming. 
 
 ---
 
