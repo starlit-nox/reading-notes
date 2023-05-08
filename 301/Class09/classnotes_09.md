@@ -29,19 +29,22 @@ Words
 
 **What are the benefits of a pure function?**
 
-- Answer
+- given the same input, will always return the same output
+- produces no side effects
 
 ---
 
 **What is immutability?**
 
-- Answer
+- immutability is when a data's state can't be changed after it's created
+
+- if an object has immutability, you have to create a new object with a new value to change it
 
 ---
 
 **What is Referential transparency?**
 
-- Answer
+- if a function consistently yields the same result for the same input, it is referentially transparent
 
 -----------------
 
@@ -70,25 +73,6 @@ Words
 **What do we have to do to make a module available?**
 
 - Answer
-
------------------
-
-### Bookmarks & Review
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
 
 -----------------
 
