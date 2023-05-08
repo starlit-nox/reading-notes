@@ -23,7 +23,7 @@ Words
 
 **DELETE** removes the resource at the specified URI.
 
-![imgGetPost]{https://cdn.discordapp.com/attachments/442113342501552147/1103699343569068142/image.png}
+![imgGetPost](https://cdn.discordapp.com/attachments/442113342501552147/1103699343569068142/image.png)
 
 The differences between POST, PUT, and PATCH can be confusing.
 
