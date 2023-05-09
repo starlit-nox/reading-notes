@@ -17,19 +17,23 @@ Words
 
 **What is a ‘call’?**
 
-- Answer
+- A call stack is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call).
+
+- A call is the function invocation.
 
 ---
 
 **How many ‘calls’ can happen at once?**
 
-- Answer
+- One
 
 ---
 
 **What does LIFO mean?**
 
-- Answer
+- Last In, First Out
+
+- It means the last function that gets pushed into the stack is the first to be popped out when the function returns. 
 
 ---
 
@@ -41,7 +45,7 @@ Words
 
 **What causes a Stack Overflow?**
 
-- Answer
+- A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. 
 
 -----------------
 
@@ -51,19 +55,21 @@ Words
 
 **What is a ‘reference error’?**
 
-- Answer
+- object represents an error when a variable that doesn't exist (or hasn't yet been initialized) in the current scope is referenced
 
 ---
 
 **What does the word ‘require’ do?**
 
-- Answer
+- 
 
 ---
 
 **What is a ‘syntax error’?**
 
-- Answer
+- occurs when you have something that cannot be parsed in terms of syntax
+
+- EX: when you try to parse an invalid object using JSON.parse
 
 ---
 
@@ -75,19 +81,21 @@ Words
 
 **What is a ‘type error’?**
 
-- Answer
+- his types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible
+
+- EX: like accessing a property in an undefined type of variable
 
 ---
 
 **What is a breakpoint?**
 
-- Answer
+- is the point in the program where the code stops executing
 
 ---
 
 **What does the word ‘debugger’ do in your code?**
 
-- Answer
+- the debugger statement triggers a breakpoint in the code
 
 -----------------
 
