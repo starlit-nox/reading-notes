@@ -59,12 +59,6 @@ Words
 
 ---
 
-**What does the word ‘require’ do?**
-
-- 
-
----
-
 **What is a ‘syntax error’?**
 
 - occurs when you have something that cannot be parsed in terms of syntax

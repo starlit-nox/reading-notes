@@ -54,25 +54,29 @@ Words
 
 **What is a module?**
 
-- Answer
+- its essentially another javascript file (from the video)
+
+- a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node. js application (from google)
 
 ---
 
 **What does the word ‘require’ do?**
 
-- Answer
+- require passes thru a string which we require from a file (from the video)
+
+- In NodeJS, require() is a built-in function to include external modules that exist in separate files. require() statement basically reads a JavaScript file, executes it, and then proceeds to return the export object. (from google)
 
 ---
 
 **How do we bring another module into the file the we are working in?**
 
-- Answer
+- we need to import the module by using the require keyword at the top of the file so the result of require is stored in a variable which is used to ivoke the functions using the dot notation 
 
 ---
 
 **What do we have to do to make a module available?**
 
-- Answer
+- we do module.exports and set it equal to whatever we want to be maded avaliable outside the module (from the video)
 
 -----------------
 
