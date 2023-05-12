@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+The reason this information is important is because it's explaing APIs and functional programming so we can insert the APIs. Its also going over very important codes methods that need to be recalled for this Stack developement.
 
 ## Functional Programming
 

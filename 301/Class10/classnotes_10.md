@@ -69,7 +69,7 @@ Words
 
 **What is a ‘range error’?**
 
-- Answer
+- occurs when a value is outside the allowable range of values for a given operation or data type
 
 ---
 
@@ -92,25 +92,5 @@ Words
 - the debugger statement triggers a breakpoint in the code
 
 -----------------
-
-### Bookmarks & Review
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
-BookmarkTitle
-<link>
-
------------------
-
 
 ## Things I Want to Know More About
