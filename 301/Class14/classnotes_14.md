@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+This information is important because it shows us that a strong work environment should be diverse.
 
 ## Diversity & Inclusion in the Tech Industry
 
@@ -17,13 +17,13 @@ Words
 
 **What occurred during the same time as the beginning of the decline of women in computer science?**
 
-- Answer
+- Personal computers started showing up in U.S homes 
 
 ---
 
 **Why does it matter that males had been playing on computers growing up?**
 
-- Answer
+- It became a narrative for boys to play and use computer and created a culture around it. Families wre more likely to buy computers for boys than girls too which is a big deal since kids were going to college and PCs became common and professors assumed everyone has a PC growing up and played on it.
 
 -----------------
 
@@ -33,18 +33,21 @@ Words
 
 **When are diversity efforts most successful?**
 
-- Answer
+- when they're driven by a commitment from company leaders
 
 ---
 
 **Why do diverse companies perform better?**
 
-- Answer
+- they tend to be smarter and more creative than homogenous ones
+
 ---
 
 **Give an example of how a diverse company can serve a diverse user base or vise-versa.**
 
-- Answer
+- When the employees of an organization better represent their users and desired users, they will build more effectively for those groups. 
+
+- If more black people were building features or striking partnerships at Twitter, perhaps they’d have a great idea" for more effectively engaging black users.  
 
 -----------------
 

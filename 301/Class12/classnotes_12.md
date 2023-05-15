@@ -17,41 +17,45 @@ Words
 
 **In your own words, describe what each group of status code represents:**
 
-100’s =
-200’s =
-300’s =
-400’s =
-500’s =
+100’s = there is an issue with the header part of the request
+
+200’s = these are sucess codes, it lets the request show that its been accepted (when its a 202 request it means it isn't sucessfuly processed when its asynchronous)
+
+300’s = these are redirection codes and it tells the client what they're requesting isn't available at the expected page anymore 
+
+400’s = these are client error codes, it tells the user that the requests are invalid (timeouts, wrong URI, missing authentication, etc.)
+
+500’s = these are server error codes. these are problems with overwhelmed or unreachable servers behind proxies
 
 ---
 
 **What is a status code 202?**
 
-- Answer
+- 202 is Accepted 
 
 ---
 
 **What is a status code 308?**
 
-- Answer
+- 308 is Permanent Redirect
 
 ---
 
 **What code would you use if an update didn’t return data to a client?**
 
-- Answer
+- 204 No Content
 
 ---
 
 **What code would you use if a resource used to exist but no longer does?**
 
-- Answer
+- 410 Gone
 
 ---
 
 **What is the ‘Forbidden’ status code?**
 
-- Answer
+- 403
 
 -----------------
 
