@@ -2,10 +2,46 @@
 
 ## Why It's Important
 
-Words
+The reason this information is important is because it is telling us the different types of authorization and authentication we can use on our applications. It is important to know what each one does so we can best determine what we need for the security of our applications.
 
 ## Authentication
 
+
+### Authorization Code Flow
+
+![flow-img](https://images.ctfassets.net/cdy7uua7fh8z/2nbNztohyR7uMcZmnUt0VU/2c017d2a2a2cdd80f097554d33ff72dd/auth-sequence-auth-code.png)
+
+
+### PKCE
+
+PKCE are used when public clients request access tokens. Some additional security concerns are posed that are not protected by the usual Authorization Code Flow alone because they're either a native app or a single page app.
+
+----
+
+Reasons why they aren't secure
+
+**Native Apps**
+
+Cannot securely store a Client Secret. Decompiling the app will reveal the Client Secret, which is bound to the app and is the same for all users and devices.
+
+May make use of a custom URL scheme to capture redirects (e.g., MyApp://) potentially allowing malicious applications to receive an Authorization Code from your Authorization Server.
+
+**Single-page apps**
+
+Cannot securely store a Client Secret because their entire source is available to the browser.
+
+**PKCE Flow Chart**
+
+![pkce-flow](https://images.ctfassets.net/cdy7uua7fh8z/3pstjSYx3YNSiJQnwKZvm5/33c941faf2e0c434a9ab1f0f3a06e13a/auth-sequence-auth-code-pkce.png)
+
+
+### Client Flow Credentials
+
+**M2M:** Machine to Machine
+
+**Client ID:** Identification value given to your registered resource from Auth0.
+
+**Client Secret:** Secret used by a client (application) to authenticate with the Authorization Server; it should be known to only the client and the Authorization Server and must be sufficiently random to not be guessable.
 
 -----------------
 
@@ -23,7 +59,7 @@ Words
 
 **Give an example of what using OAuth would look like.**
 
-- An OAuth scenario cold be a user sending cloud stored files to somene else via email when the cloud storage and email systems are unrelaed other than supporting the OAuth framework.
+- An OAuth scenario could be a user sending cloud stored files to someone else via email when the cloud storage and email systems are unrelated other than supporting the OAuth framework.
 
 OAuth Framework Supports
 
@@ -34,7 +70,7 @@ OAuth Framework Supports
 
 **How does OAuth work? What are the steps that it takes to authenticate the user?**
 
-OAuth only works on HTTPS. The user intiates a feature/transaction that needs to acess another that's unreleated to the site or service. When that happens it goes through the OAuth Steps below.
+OAuth only works on HTTPS. The user initiates a feature/transaction that needs to access another that's unrelated to the site or service. When that happens it goes through the OAuth Steps below.
 
 OAuth Steps
 
@@ -66,7 +102,7 @@ OAuth Steps
 
 **What is OpenID?**
 
-- OpenID works as an authenicator. It serves as a single sign-in, vouching for the identities of users. 
+- OpenID works as an authenticator. It serves as a single sign-in, vouching for the identities of users. 
 
 -----------------
 
@@ -76,42 +112,53 @@ OAuth Steps
 
 **What is the difference between authorization and authentication?**
 
-- Answer
+- authorization determines the ability to access clients or services
+
+-authentication verifies the identity of the user or service
 
 ---
 
 **What is Authorization Code Flow?**
 
-- Answer
+- It is the flow which exchanges an Authorization Code for a token.
+
+- This flow can only be used for confidential applications (such as Regular Web Applications) because the application's authentication methods are included in the exchange and must be kept secure.
 
 ---
 
 **What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?**
 
-- Answer
+- PKCE gives additional security, typically used  for mobile and native applications
+
+- It is an openID connection flow.
 
 ---
 
 **What is Implicit Flow with Form Post?**
 
-- Answer
+- It is intended for public clients or applications which are unable to securely store client secrets. 
+
+- it's not the best practice for requesting access tokens
 
 ---
 
 **What is Client Credentials Flow?**
 
-- Answer
+- This flow involves an application exchanging its application credentials, such as client ID and client secret for an access token. 
+
+- best suited for M2M
 
 ---
 
 **What is Device Authorization Flow?**
 
-- Answer
+- The authenticate asks the user to go to a link on their computer or smartphone to authorize the device
+
 ---
 
 **What is Resource Owner Password Flow?**
 
-- Answer
+- this flow requests that users provide credentials (username and password) with an interactive form
 
 -----------------
 

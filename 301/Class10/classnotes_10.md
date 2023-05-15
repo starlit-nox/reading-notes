@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+This is important because it allows us to see how the flow of a call stack looks like which is important to be able to properly stack functions and predict how the code will flow through it. It also shows us how to avoid stack overflow.
 
 ## ReadingSubject
 
@@ -39,7 +39,18 @@ Words
 
 **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
-- Answer
+```
+function firstFunction(){
+  console.log("Hello from firstFunction");
+}
+
+function secondFunction(){
+  firstFunction();
+  console.log("The end from secondFunction");
+}
+
+secondFunction();
+```
 
 ---
 
