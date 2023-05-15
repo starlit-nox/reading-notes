@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+Its important to know this because the acroynom is the common logic that coding uses. Its also good to be able to think ahead on what HTTP Method different applications will need for their api. 
 
 ## More CRUD
 
