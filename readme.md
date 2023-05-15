@@ -9,26 +9,26 @@
 **Portfolio:** <https://react-portfolio-starlitnox.netlify.app/>
 
 
-# Reading Notes
+## Reading Notes
 
-## [Class 102](102/classes_102.md)
+### [Class 102](102/classes_102.md)
 
 Intro to Software Development
 
 ---
 
-## [Class 201](201/classes_201.md)
+### [Class 201](201/classes_201.md)
 
 Foundations of Software Development
 
 ---
 
-## [Class 301](301/classes_301.md)
+### [Class 301](301/classes_301.md)
 
 Intermediate Software Development
 
 ---
 
-## [Class 401](401/classes_401.md)
+### [Class 401](401/classes_401.md)
 
 Coming Soon
