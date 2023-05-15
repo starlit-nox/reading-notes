@@ -95,7 +95,12 @@ CRUD
 
 ## [Class 14](Class14/classnotes_14.md)
 ```
-More CRUD
+???
+```
+
+## [Class 14-A](Class14/classnotes_14a.md)
+```
+Diversity & Inclusion in the Tech Industry
 ```
 
 ---
