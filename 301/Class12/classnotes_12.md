@@ -2,7 +2,7 @@
 
 ## Why It's Important
 
-Words
+This information is important so you know what codes mean when your applications show errors and give back a code. It helps you figure out and fix the problem faster. 
 
 ## CRUD
 
@@ -19,7 +19,7 @@ Words
 
 **100’s** = there is an issue with the header part of the request
 
-**200’s** = these are sucess codes, it lets the request show that its been accepted (when its a 202 request it means it isn't sucessfuly processed when its asynchronous)
+**200’s** = these are success codes, it lets the request show that its been accepted (when it's a 202 request it means it isn't successfully processed when its asynchronous)
 
 **300’s** = these are redirection codes and it tells the client what they're requesting isn't available at the expected page anymore 
 
@@ -29,13 +29,13 @@ Words
 
 ---
 
-**What is a status code 202?**
+**What is the status code 202?**
 
 - 202 is Accepted 
 
 ---
 
-**What is a status code 308?**
+**What is the status code 308?**
 
 - 308 is Permanent Redirect
 
@@ -65,50 +65,59 @@ Words
 
 **Why do we need to pull our MongoDB database string out of our server and put it into our .env?**
 
-- Answer
+- Storing it in a .env file makes it more secure and manageable.
 
 ---
 
 **What is middleware?**
 
-- Answer
+- It is a software or function that acts as the "middle man" between different parts of an app.
+
 ---
 
 **What does app.use(express.json()) do?**
 
-- Answer
+- It enables parsing of JSON data in incoming requests in express apps
 
 ---
 
 **What does the /:id mean in a route?**
 
-- Answer
+- it captures a value or identifier from the URL path
 
 ---
 
 **What is the difference between PUT and PATCH?**
 
-- Answer
+- PUT replaces the entire resource identified by the URL
+
+- PATCH partially updates the resources with the provided changes
 
 ---
 
 **How do you make a default value in a schema?**
 
-- Answer
+- you set the schema as new
+- you set it with name
+- then you set it with type and require
+- then you set it as a default property
 
 ---
 
 **What does a 500 error status code mean?**
 
-- Answer
+- it means something unexpected occurred that prevents the server from completing the request
 
 ---
 
 **What is the difference between a status 200 and a status 201?**
 
-- Answer
+- 200 is a successful request and response
+
+- 201 is a successful request that results in the creation of a new resource
 
 -----------------
 
 
 ## Things I Want to Know More About
+
