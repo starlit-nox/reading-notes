@@ -2,6 +2,21 @@
 
 Notes for Code School
 
+## [Introduction to SQL](Prepwork/introsql.md)
+```
+Prepwork
+```
+
+## [Practice in the Termainl](Prepwork/terminal.md)
+```
+Prepwork
+```
+
+## [The Growth Mindset](Prepwork/growthmindset.md)
+```
+Prepwork
+```
+
 ## [Class 01](Class01/classnotes_01.md)
 ```
 TBA
