@@ -19,14 +19,14 @@ Prepwork
 
 ## [Class 01](Class01/classnotes_01.md)
 ```
-TBA
+Exception Handling
 ```
 
 ---
 
 ## [Class 02](Class02/classnotes_02.md)
 ```
-TBA
+Unit Testing and Documentation
 ```
 
 ---
