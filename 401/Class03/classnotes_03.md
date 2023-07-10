@@ -50,7 +50,16 @@ Examples:
 
 <https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file>
 
+
+- StreamWriter and File classes are commonly used to write text to a file in .NET.
+
+- StreamWriter allows synchronous writing of text to a file using methods like Write, WriteLine, WriteAsync, and WriteLineAsync.
+
+- File class provides static methods like WriteAllLines, WriteAllText, AppendAllLines, AppendAllText, and AppendText for writing and appending text to a file.
+
+- The Path class is used to work with file and directory paths, providing methods like Combine, Join, and TryJoin.
+
 ## Read to a File
 
-<>
+<https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file>
 
