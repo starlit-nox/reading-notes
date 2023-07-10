@@ -65,7 +65,7 @@ Examples:
 
 # Analogy
 
-Think of files as books in a library and streams as reading and writing. You can perform actions on files like creating, copying, and deleting, just like handling books in a library. Streams are like the process of reading and writing data.
+Compare files as books in a library and streams as reading and writing. You can perform actions on files like creating, copying, and deleting, just like handling books in a library. Streams are like the process of reading and writing data.
 
 Different types of streams are like different reading or writing methods. There are streams for reading and writing files, sending data over the internet, or working with data in memory.
 
