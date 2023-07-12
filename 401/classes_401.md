@@ -33,21 +33,21 @@ Unit Testing and Documentation
 
 ## [Class 03](Class03/classnotes_03.md)
 ```
-TBA
+File Manipulation / System.IO
 ```
 
 ---
 
 ## [Class 04](Class04/classnotes_04.md)
 ```
-TBA
+Classes & Memory ManagementBA
 ```
 
 ---
 
 ## [Class 05](Class05/classnotes_05.md)
 ```
-TBA
+Linked Lists
 ```
 
 ---
