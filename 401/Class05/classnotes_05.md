@@ -105,14 +105,13 @@ Review
 
 ## Review Quiz 
 
-1. <details><summary>A linked list is a data structure that contains ... that links/points to the next node in the list.</summary>Answer 1: nodes</details>
-2. <details><summary>In a ... linked list, there is only one reference, and the reference points to the Next node in the linked list.</summary>Answer 2: singly</details>
-3. <details><summary>In a ... linked list, there is a reference to both the Next and Previous node.</summary>Answer 3: doubly</details>
-4. <details><summary>4Each individual item/link in a linked list is called a ....
-</summary>Answer 4: node</details>
-5. <details><summary>The ... property of a node contains the reference to the next node in the linked list.</summary>Answer 5: Next</details>
-6. <details><summary>The ... reference in a linked list points to the first node in the list.</summary>Answer 6: Head</details>
-7. <details><summary>The ... reference in a linked list points to the node that is currently being looked at.</summary>Answer 7: Current</details>
-8. <details><summary>When traversing a linked list, you start from the ... to guarantee you are starting from the beginning of the linked list.</summary>Answer 8: Head</details>
-9. <details><summary>The first part of the article "What's a Linked List Anyway?" provides an introduction to linked lists, focusing on ....</summary>Answer 9: the concept and basics</details>
-10. <details><summary>The second part of the article "What's a Linked List Anyway?" delves deeper into the implementation and advantages of ... linked lists.</summary>Answer 10: doubly</details>
+1. <details><summary>A linked list is a data structure that contains ____________ that links/points to the next node in the list.</summary>Answer 1: nodes</details>
+2. <details><summary>In a ____________ linked list, there is only one reference, and the reference points to the Next node in the linked list.</summary>Answer 2: singly</details>
+3. <details><summary>In a ____________ linked list, there is a reference to both the Next and Previous node.</summary>Answer 3: doubly</details>
+4. <details><summary>Each individual item/link in a linked list is called a ____________.</summary>Answer 4: node</details>
+5. <details><summary>The ____________ property of a node contains the reference to the next node in the linked list.</summary>Answer 5: Next</details>
+6. <details><summary>The ____________ reference in a linked list points to the first node in the list.</summary>Answer 6: Head</details>
+7. <details><summary>The ____________ reference in a linked list points to the node that is currently being looked at.</summary>Answer 7: Current</details>
+8. <details><summary>When traversing a linked list, you start from the ____________ to guarantee you are starting from the beginning of the linked list.</summary>Answer 8: Head</details>
+9. <details><summary>The first part of the article "What's a Linked List Anyway?" provides an introduction to linked lists, focusing on ____________.</summary>Answer 9: the concept and basics</details>
+10. <details><summary>The second part of the article "What's a Linked List Anyway?" delves deeper into the implementation and advantages of ____________ linked lists.</summary>Answer 10: doubly</details>
