@@ -1,4 +1,4 @@
-# Why Its Important:
+# Linked Lists
 
 ## Big O: Analysis of Algorithm Efficieny
 
