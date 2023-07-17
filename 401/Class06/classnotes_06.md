@@ -1,4 +1,4 @@
-# Why Its Important:
+# Object Oriented Principles
 
 ## Inheritance
 
@@ -85,5 +85,59 @@ Polymorphism has two aspects:
 ## OOP Principles
 <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop>
 
-# Q&A
+## Ray's Lecture
 
+Abstract classes are like schemas
+they're to be the hierchary of the code
+
+if you define a virtual object/class/method  you have to define it, but you don't have to use it AT ALL
+
+IF YOU WRITE AN ABSTRACT, YOU WONT HAVE TO WRITE ANY LOGIC
+
+virtual is for all, it gives the same output
+
+abstract is iniivudalized (but you can add them to everyting if you want) and it gives different out puts
+
+virtual gives an output of a default implementation (depending on what you have it set up as in its method/writeline)
+
+
+
+virtual and abstract are only for organizaitonal purposes
+
+CLASSES ARE NOT A REQUIREMENT FOR YOUR PROGRAM TO RUN
+
+hereditories aren't a requirement either, it makes things easier though
+
+here's an example
+
+(rhino) (monkey) (clown fish) (puffer fish) (eagle)
+
+these are your classes
+
+then there's more types
+
+(Mammals) 
+Fur (Characteristic)
+
+(Fish)
+Gills (Charactierstic)
+
+ (Bird)
+ Wings (Characteristics)
+
+ Mammals, Fish, Gills would be ABSTRACT 
+ 
+ 
+ CLASS
+
+ Node will have two classes
+
+ Property will/is a data type of node
+
+ LAB HELP
+
+ Link List
+
+ Node Class
+
+ ^ Implement both 
