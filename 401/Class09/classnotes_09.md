@@ -175,5 +175,7 @@ For Example: going through a foreach statement
 
 - Use an anonymous type to select specific properties of the Student objects.
 
+View actual step-by-step photo instructions at the link provided above!
+
 # Q&A
 
