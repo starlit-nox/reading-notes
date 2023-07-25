@@ -2,6 +2,7 @@
 
 ## Why Its Important:
 
+This information is important because it provides us with information of how databases should be developed and managed. Understanding this helps us create efficient databases, tables and keeps them clean.
 
 ## Data Models (Review the DB Schema)
 
@@ -72,34 +73,66 @@ HTML5, the latest version of the Hypertext Markup Language, incorporates new fea
 
 ## Lecture Notes
 
+- **Transactions**: Transactions in a database are similar to functions in programming. They allow you to group a set of database operations together into a single logical unit of work. Transactions ensure that all operations within the unit are completed successfully, or if any operation fails, the entire unit is rolled back, and the database remains in its original state.
+
+- **BEGIN TRAN**: To start a transaction, you use the `BEGIN TRAN` command in the database management system.
+
+- **END**: To mark the end of a transaction, you use the `END` command.
+
+- **ROLLBACK TRAN**: If you encounter an error or want to undo the changes made within the transaction, you can execute the `ROLLBACK TRAN` command, which rolls back the transaction to its starting state.
+
+- **COMMIT**: On the other hand, if all the operations within the transaction are successful, you can use the `COMMIT` command to save the changes permanently to the database.
+
+- **Highlighting Sections of Code**: In some development environments, you can highlight sections of code, even if they are commented out, and execute them independently for testing or debugging purposes.
+
+- **Error Handling in .NET ASP Console APP**: Errors encountered during the execution of an ASP.NET Core application route to the error page in the .NET ASP Console APP. This is helpful for diagnosing and handling errors gracefully.
+
+- **View Start & View Import**: These are configuration files that help configure how Razor pages work. They allow you to set up layout-to-layout inheritance, which means you can define common layouts for pages and include dynamic content using `@RenderBody()` where necessary.
+
+- **@RenderBody()**: In Razor pages, the `@RenderBody()` directive defines a placeholder where the content of the specific page being rendered will be inserted. It allows you to separate the common layout from the specific content of individual pages.
+
+- **@RenderSection()**: The `@RenderSection()` directive allows you to define sections within a Razor page that can be optionally rendered in the layout. This allows you to encapsulate reusable content in sections that can be rendered condition
+
 # Q&A
 
 ## Data Models
 
-1. Do some research on what a Database Schema is.
+**Q.** Do some research on what a Database Schema is.its **A.** a blueprint that defines the structure and organization of a database
 
-2. What is a Schema?
+**Q.**  What is a Schema?
+**A.** its the name for the blueprint for a database
 
-3. Why do we use them?
+**Q.** Why do we use them?
+**A.** to organize and structure data
 
-4. What do they look like?
+**Q.** What do they look like?
+**A.** 
 
-5. What are the different types of Database Keys?
+**Q.** What are the different types of Database Keys?
+**A.** 
 
-6. What is a Primary Key?
+**Q.** What is a Primary Key?
+**A.** uniquely identifies a record in a table
 
-7. What is a Foreign Key?
+**Q.** What is a Foreign Key?
+**A.** establishes a link between two tables
 
-8. What is a Composite Key?
+**Q.** What is a Composite Key?
+**A.** combination of two or more columns used as a unique identifier
 
-9. How are they different? When do you use 1 over the others?
+**Q.** How are they different? When do you use 1 over the others?
+**A.** you use a primary key when you need a unique indefiier, a foregin key to estbalish relationships and a connection between tables, and a composite when a single column does not provide enough uniqueness
 
 ## DBMS
 
-1. What are Relationships in a relational database?
+**Q.** What are Relationships in a relational database?
+**A.** relationships in a relational databaase are connections between tables that define how they relate to each other
 
-2. What is a 1:1 relationship?
+**Q.** What is a 1:1 relationship?
+**A.** it is when one record in a table is related ONLY to 1 record in another table and vice verse
 
-3. What is a Many:Many relationship?
+**Q.** What is a Many:Many relationship?
+**A.** it is when mutliple records in one table are related to multiple records in another table
 
-4. How about a 1: Many or a Many:1?
+**Q.** How about a 1: Many or a Many:1?
+**A.** it is when one record in a table is related to mutliple records n another table or vice verse
