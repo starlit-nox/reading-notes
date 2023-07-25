@@ -121,3 +121,100 @@ TBA
 ```
 
 ---
+
+## [Class 16](Class14/classnotes_16.md)
+```
+TBA
+```
+
+---
+
+## [Class 17](Class15/classnotes_17.md)
+```
+TBA
+```
+
+---
+## [Class 18](Class14/classnotes_18.md)
+```
+TBA
+```
+
+---
+
+## [Class 19](Class15/classnotes_19.md)
+```
+TBA
+```
+
+---
+
+## [Class 20](Class14/classnotes_20.md)
+```
+TBA
+```
+
+---
+
+## [Class 21](Class15/classnotes_21.md)
+```
+TBA
+```
+
+---
+
+## [Class 22](Class14/classnotes_22md)
+```
+TBA
+```
+
+---
+
+## [Class 23](Class15/classnotes_23.md)
+```
+TBA
+```
+
+---
+
+## [Class 24](Class14/classnotes_24.md)
+```
+TBA
+```
+
+---
+
+## [Class 25](Class15/classnotes_25.md)
+```
+TBA
+```
+
+---
+
+## [Class 26](Class14/classnotes_26.md)
+```
+TBA
+```
+
+---
+
+## [Class 27](Class15/classnotes_27.md)
+```
+TBA
+```
+
+---
+
+## [Class 28](Class14/classnotes_28.md)
+```
+TBA
+```
+
+---
+
+## [Class 29](Class15/classnotes_29.md)
+```
+TBA
+```
+
+---
