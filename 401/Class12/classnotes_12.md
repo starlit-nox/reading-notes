@@ -2,7 +2,11 @@
 
 ## Why Its Important:
 
+The reason this information is important because it simplifies the way developers interact with databases in their apps. The way it does this is by providing easy-to-use object-relational mapping (ORM) system. This gets rid of the need for complex and repetitive data which makes the code cleaner and more maintainable.
+
 ## Analogy:
+
+Imagine you have two groups of people who speak different languages. One group speaks English, and the other group speaks Spanish. Entity Framework Core is like a magic translator that helps these people understand each other. It translates what the English-speaking people say into Spanish and what the Spanish-speaking people say into English, so they can communicate and work together without any language barriers. Just like this translator makes it easy for people to talk and collaborate, Entity Framework Core makes it easy for computer programs and databases to "talk" and work together, making things simpler for developers and their applications.
 
 ## MVC with EF Get Started
 
