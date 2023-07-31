@@ -16,7 +16,6 @@
 
 - Use dynamic LINQ to simplify code
 
-
 **Some things the Razor Pages tutorial has that this one doesn't:**
 
 - Use Select method to load related data
@@ -70,7 +69,6 @@ EF supports the following model development approaches:
 - Plan migrations during deployment to avoid concurrency issues and excessive permissions.
 
 - Thoroughly test generated migrations before applying them to production data.
-
 
 ## Data Seeding
 
