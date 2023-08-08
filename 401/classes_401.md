@@ -82,28 +82,28 @@ TBA
 
 ## [Class 10](Class10/classnotes_10.md)
 ```
-TBA
+Implementation: Stacks and Queuea
 ```
 
 ---
 
 ## [Class 11](Class11/classnotes_11.md)
 ```
-TBA
+Introduction to Databases and ERDs
 ```
 
 ---
 
 ## [Class 12](Class12/classnotes_12.md)
 ```
-TBA
+Entity Framework and APIs
 ```
 
 ---
 
 ## [Class 13](Class13/classnotes_13.md)
 ```
-TBA
+Dependency Injection & Repository Design Pattern
 ```
 
 ---
