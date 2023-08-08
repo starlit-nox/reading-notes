@@ -23,7 +23,8 @@ Leaf: A node that does not have any children.
 
 Height: The number of edges from the root node to the furthest leaf node.
 
-![https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree1.PNG](Binary Tree)
+[Trees Image](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BinaryTree1.PNG)
+
 
 ## Traversals
 
