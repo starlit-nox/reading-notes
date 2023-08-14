@@ -2,7 +2,7 @@
 
 ## Why Its Important:
 
-The reason this information is important is because the DTOs customize and optimizes data exchanges between different layers of web applications. This helps and improves the performance, security, and maintaiblity of web applications.
+The reason this information is important is because the DTOs customize and optimizes data exchanges between different layers of web applications. This helps and improves the performance, security, and maintainability of web applications.
 
 ## Analogy:
 
