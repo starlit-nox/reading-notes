@@ -1,8 +1,11 @@
 # Dependency Injection & Repository Design Pattern
 
-## Why Its Important:
+## Why Its Important: 
+The reason this is important is because it is a crucial part of software development because it promtes modular, flexible, and more maintainable code. It overall enhances data accesss by abstracting the databases interactions. 
 
-## Analogy:
+## Analogy: 
+
+Think of Dependency Injection as a restaurant where the chef prepares dishes, but the ingredients are brought in from various suppliers. The chef doesn't need to know the details of each ingredient's origin; they focus on creating delicious meals. Similarly, in software, Dependency Injection abstracts dependencies, allowing components to work together without tightly coupling them. The Repository Design Pattern is like a library catalog system that manages and lends books to readers. Readers don't need to know where each book is stored; they rely on the library's organized system. In software, the Repository Pattern separates data access from the rest of the application, providing a consistent and abstract way to interact with data sources.
 
 ## Dependency Injection
 
@@ -74,17 +77,166 @@ Data persistence components provide access to microservice data within a boundar
 
 <https://medium.com/@pererikbergman/repository-design-pattern-e28c0f3e4a30>
 
+**Repository Design Pattern**
+
+- The repository pattern is currently popular and aligns with SOLID principles.
+- It serves as an abstraction of the data layer and centralizes domain object handling.
+
+**Data Access Objects (DAOs)**
+DAOs are a common way to work with the data layer.
+
+Example: An ArticleDao interface with methods like readAll(), readByTags(Tag... tags), etc
+
+```public interface ArticleDao {
+    List<Article> readAll();
+    List<Article> readLatest();
+    List<Article> readByTags(Tag... tags);
+    Article readById(long id);
+    Article create(Article article);
+    Article update(Article article);
+    Article delete(Article article);
+}
+```
+
+**Abstraction and CRUD**
+
+-The repository pattern abstracts data access, providing a generic way to work with the data layer.
+-CRUD methods (Create, Read, Update, Delete) are central to this pattern.
+
+```public interface Repository<T> {
+    List<T> readAll();
+    T read(Criteria criteria);
+    T create(T entity);
+    T update(T entity);
+    T delete(T entity);
+}
+```
+
 ## SOLID Principles
 
 <https://www.telerik.com/blogs/30-days-of-tdd-day-five-make-your-code-solid>
+
+
+**Single Responsibility Principle (SRP):**
+
+-Each method or class should have only one reason to change.
+Classes/methods should have a single responsibility, leading to better maintainability.
+-This practice results in simpler, more focused methods that are easier to test.
+-Tests should ideally focus on testing exactly one thing to enhance test clarity and diagnostic capabilities.
+
+**Open/Close Principle (OCP):**
+
+-Software (methods/classes) should be open for extension but closed for modification.
+-Encapsulation and inheritance are related to OCP.
+OCP facilitates software components being extended without altering their existing behavior.
+-Dependency Inversion Principle (DIP) plays a role in implementing OCP.
+-OCP helps with mocking in TDD, enabling classes to be open for mocks through Dependency Inversion.
+
+**Liskov Substitution Principle (LSP):**
+
+-Objects of derived types should be substitutable for objects of their base types.
+-Polymorphism is related to LSP.
+-LSP enables writing code that's testable by creating substitutes for dependencies, which helps maintain test isolation.
+
+**Interface Segregation Principle (ISP):**
+
+-Clients should not be forced to depend on interfaces they do not use.
+-Fine-grained interfaces tailored to specific client needs are favored.
+-Smaller and more targeted interfaces lead to easier development and testing.
+-ISP contributes to simpler and more comprehensible tests.
+
+**Dependency Inversion Principle (DIP):**
+
+-Code should depend on abstractions, not concrete implementations.
+-Abstractions should not rely on implementation details.
+-Dependency Injection (DI) is a methodology to achieve DIP.
+-DIP helps in achieving loose coupling and making code more adaptable.
+-DI is a crucial component of TDD, enabling code testing in isolation through the use of mocks.
 
 ## Why SOLID Matters
 
 <https://www.telerik.com/blogs/why-solid-matters>
 
+**Single Responsibility Principle (SRP):**
+
+-Classes should have a single responsibility to improve maintainability.
+-Avoid tightly coupling object creation and usage in a single method.
+-Instead, use abstractions, factories, or dependency injection to separate concerns.
+
+**Open-Closed Principle (OCP):**
+
+-Modules should be open for extension but closed for modification.
+-Prefer extending functionality through polymorphism rather than modifying base code.
+-Reduces the risk of introducing bugs when making changes.
+
+**Liskov Substitution Principle (LSP):**
+
+-Subclasses should be substitutable for their base classes.
+-Derived classes must maintain the behavior expected by the client code.
+-Ensures that changes to derived classes don't break the client's functionality.
+
+**Interface Segregation Principle (ISP):**
+
+-Prefer many client-specific interfaces over a single general-purpose interface.
+-Fine-grained interfaces reduce ambiguity and improve design clarity.
+
+**Dependency Inversion Principle (DIP):**
+
+-Depend on abstractions, not concrete implementations.
+-Use interfaces or abstract classes to decouple components from specific implementations.
+-Facilitates easier swapping of implementations without changing client code.
+
+**Code Example Analysis:**
+
+-The initial code example violates SRP by instantiating and using the LoginService within the same method. This makes it tightly coupled to a specific implementation.
+-The solution begins by creating an interface, ILoginService, to abstract the implementation details. This adheres to the DIP principle.
+-The extracted interface allows the code to depend on abstractions rather than concrete implementations.
+-Factory pattern usage (such as LoginServiceFactory) encapsulates object creation and improves code maintainability.
+-The code evolves further by applying Constructor Injection, following DIP, where dependencies are injected through the class constructor.
+-The final SecurityHandler class demonstrates the application of Constructor Injection and adherence to SRP.
+
 ## SOLID Principles in Pictures
 
 <https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898>
+
+### S — Single Responsibility
+
+-A class should have a single responsibility.
+-Having multiple responsibilities in a class can lead to bugs and unintended side effects when making changes.
+
+**Goal**: Separate behaviors to avoid impacting unrelated functionalities when making changes.
+
+### O — Open-Closed
+
+-Classes should be open for extension, but closed for modification.
+-Changing the behavior of a class can affect systems using that class.
+-Extending a class's behavior should involve adding new functions, not modifying existing ones.
+
+**Goal**: Extend a class's behavior without altering its existing behavior to prevent introducing bugs in systems using the class.
+
+### L — Liskov Substitution
+
+-Subtypes must be substitutable for their base types without altering program properties.
+-Child classes should be able to replace parent classes without causing bugs.
+-Inheritance should ensure that a child class can perform the same actions and provide the same results as the parent class.
+
+**Goal**: Enforce consistency and ensure that both parent and child classes can be used interchangeably without errors.
+
+### I — Interface Segregation
+
+-Clients should not be forced to depend on methods they do not use.
+-Classes should only perform actions that are relevant to their roles.
+-Unnecessary actions should be removed or moved to other classes if they might be used in the future.
+
+**Goal**: Split sets of actions into smaller, focused sets so that classes execute only the actions they require.
+
+### D — Dependency Inversion
+
+-High-level modules should not depend on low-level modules; both should depend on abstractions.
+-Abstractions should not depend on details; details should depend on abstractions.
+-Classes should not be tightly coupled to the tools they use, but rather to interfaces that connect them to the tools.
+
+**Goal**: Reduce dependency of high-level classes on low-level classes by introducing interfaces, allowing for flexibility and easier maintenance.
 
 ## Lecture Notes
 
