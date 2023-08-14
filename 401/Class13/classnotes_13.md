@@ -5,7 +5,7 @@ The reason this is important is because it is a crucial part of software develop
 
 ## Analogy: 
 
-Think of Dependency Injection as a restaurant where the chef prepares dishes, but the ingredients are brought in from various suppliers. The chef doesn't need to know the details of each ingredient's origin; they focus on creating delicious meals. Similarly, in software, Dependency Injection abstracts dependencies, allowing components to work together without tightly coupling them. The Repository Design Pattern is like a library catalog system that manages and lends books to readers. Readers don't need to know where each book is stored; they rely on the library's organized system. In software, the Repository Pattern separates data access from the rest of the application, providing a consistent and abstract way to interact with data sources.
+Imagine you have a toolbox at home. Instead of putting all the tools together, you have separate spots for your hammers, screwdrivers, and wrenches. That's like the Repository Pattern in computer programming – it helps keep things neat and easy to find. And just like how you can borrow tools from a friend, Dependency Injection lets computer programs share different tools when they need them, making the programs work together smoothly.
 
 ## Dependency Injection
 
