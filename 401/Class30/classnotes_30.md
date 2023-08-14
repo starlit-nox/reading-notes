@@ -4,6 +4,6 @@
 
 ## Link Title
 
-## Lecture Notes
+## Lecture Notes / What I Want to Know
 
 ## Q&A

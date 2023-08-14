@@ -1,9 +1,17 @@
-# Title
+# Intro to MVC
 
 ## Why Its Important:
 
-## Link Title
+## Azure Dev Ops
 
-## Lecture Notes
+## MVC Basics
+
+## Tag Helpers
+
+## Bootstrap
+
+## 1 Hour tutorial Bootstrap
+
+## Lecture Notes / What I Want to Know
 
 ## Q&A

@@ -1,9 +1,11 @@
-# Title
+# MVC Forms
 
 ## Why Its Important:
 
-## Link Title
+## View Models
 
-## Lecture Notes
+## 4 Ways to make a form in .NET MVC
+
+## Lecture Notes / What I Want to Know
 
 ## Q&A

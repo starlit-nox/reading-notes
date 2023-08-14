@@ -1,8 +1,12 @@
-# Title
+# Testing and Swagger and Deployment
 
 ## Why Its Important:
 
-## Link Title
+## Swagger
+
+## Unit Testing
+
+## Testing Controllers
 
 ## Lecture Notes / What I Want to Know
 

@@ -1,9 +1,13 @@
-# Title
+# Azure Blob Storage
 
 ## Why Its Important:
 
-## Link Title
+## Intro to Blob Storage
 
-## Lecture Notes
+## Blob Storage Quickstart
+
+## Azure Storage Documentation
+
+## Lecture Notes / What I Want to Know
 
 ## Q&A
