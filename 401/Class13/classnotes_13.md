@@ -238,5 +238,5 @@ OCP facilitates software components being extended without altering their existi
 
 **Goal**: Reduce dependency of high-level classes on low-level classes by introducing interfaces, allowing for flexibility and easier maintenance.
 
-## Lecture Notes
+## Lecture Notes / What I Want to Know
 
