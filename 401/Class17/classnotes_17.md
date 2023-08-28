@@ -1,6 +1,11 @@
 # Testing and Swagger and Deployment
 
 ## Why Its Important:
+This information is important because it covers the doccumentation for Swaghger/OpenAPI. It hilightsd the importances of unit etsting when using ASP.NET MVC apps and it gives examples for testing controllers actions to help us test their reliablility. 
+
+## Analogy
+
+Swagger is like a special dictionary for computer programs that helps them understand how to talk to each other. We learn new words and their meanings from a dictionary, Swagger helps computers learn how to share information in a similiar manner. 
 
 ## Swagger
 <https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?tabs=visual-studio&view=aspnetcore-2.1>
