@@ -54,28 +54,28 @@ Linked Lists
 
 ## [Class 06](Class06/classnotes_06.md)
 ```
-TBA
+Inheritance
 ```
 
 ---
 
 ## [Class 07](Class07/classnotes_07.md)
 ```
-TBA
+Interfaces
 ```
 
 ---
 
 ## [Class 08](Class08/classnotes_08.md)
 ```
-TBA
+LINQ
 ```
 
 ---
 
 ## [Class 09](Class09/classnotes_09.md)
 ```
-TBA
+LINQ
 ```
 
 ---
@@ -110,109 +110,137 @@ Dependency Injection & Repository Design Pattern
 
 ## [Class 14](Class14/classnotes_14.md)
 ```
-TBA
+Navigation Properties & Routing
 ```
 
 ---
 
 ## [Class 15](Class15/classnotes_15.md)
 ```
+Trees
+```
+
+---
+
+## [Class 16](Class16/classnotes_16.md)
+```
+Data Transfer Objects
+```
+
+---
+
+## [Class 17](Class17/classnotes_17.md)
+```
+Testing & Swagger & Deployment
+```
+
+---
+## [Class 18](Class18/classnotes_18.md)
+```
+Identity
+```
+
+---
+
+## [Class 19](Class19/classnotes_19.md)
+```
+Roles, Claims, & JWT Tokens
+```
+
+---
+
+## [Class 20](Class20/classnotes_20.md)
+```
+Class doesn't exist.
+```
+
+---
+
+## [Class 21](Class21/classnotes_21.md)
+```
+Class doesn't exist.
+```
+
+---
+
+## [Class 22](Class22/classnotes_22md)
+```
+Class doesn't exist.
+```
+
+---
+
+## [Class 23](Class23/classnotes_23.md)
+```
+Class doesn't exist
+```
+
+---
+
+## [Class 24](Class24/classnotes_24.md)
+```
+Class doesn't exist. 
+```
+
+---
+
+## [Class 25](Class25/classnotes_25.md)
+```
+Class doesn't exist.
+```
+
+---
+
+## [Class 26](Class26/classnotes_26.md)
+```
+Intro to MVC
+```
+
+---
+
+## [Class 27](Class27/classnotes_27.md)
+```
+MVC Forms
+```
+
+---
+
+## [Class 28](Class28/classnotes_28.md)
+```
+Authentication, Authorization, Cookies
+```
+
+---
+
+## [Class 29](Class29/classnotes_29.md)
+```
 TBA
 ```
 
 ---
 
-## [Class 16](Class14/classnotes_16.md)
+## [Class 30](Class30/classnotes_30.md)
 ```
 TBA
 ```
 
 ---
 
-## [Class 17](Class15/classnotes_17.md)
-```
-TBA
-```
-
----
-## [Class 18](Class14/classnotes_18.md)
+## [Class 31](Class29/classnotes_31.md)
 ```
 TBA
 ```
 
 ---
 
-## [Class 19](Class15/classnotes_19.md)
+## [Class 32](Class29/classnotes_32.md)
 ```
 TBA
 ```
 
 ---
 
-## [Class 20](Class14/classnotes_20.md)
-```
-TBA
-```
-
----
-
-## [Class 21](Class15/classnotes_21.md)
-```
-TBA
-```
-
----
-
-## [Class 22](Class14/classnotes_22md)
-```
-TBA
-```
-
----
-
-## [Class 23](Class15/classnotes_23.md)
-```
-TBA
-```
-
----
-
-## [Class 24](Class14/classnotes_24.md)
-```
-TBA
-```
-
----
-
-## [Class 25](Class15/classnotes_25.md)
-```
-TBA
-```
-
----
-
-## [Class 26](Class14/classnotes_26.md)
-```
-TBA
-```
-
----
-
-## [Class 27](Class15/classnotes_27.md)
-```
-TBA
-```
-
----
-
-## [Class 28](Class14/classnotes_28.md)
-```
-TBA
-```
-
----
-
-## [Class 29](Class15/classnotes_29.md)
+## [Class 29](Class29/classnotes_29.md)
 ```
 TBA
 ```
